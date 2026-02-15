@@ -1,28 +1,28 @@
 {
   "meta": {
     "title": "Aura-Lesung - Welche Farbe hat deine Aura? | DopaBrain",
-    "description": "Welche Farbe hat deine Aura? Beantworte 10 Fragen und entdecke deine Energiefarbe. 8 einzigartige Aura-Typen mit Persoenlichkeitsanalyse. Teile dein Ergebnis!",
-    "keywords": "Aura-Test, Aurafarbe, Energielesung, Persoenlichkeitstest, Aura-Quiz, spiritueller Test",
+    "description": "Welche Farbe hat deine Aura? Beantworte 10 verträumte Fragen, um deine Energiefarbe zu entdecken. 8 einzigartige Aura-Typen mit Persönlichkeitsanalyse. Teile dein Ergebnis!",
+    "keywords": "Aura-Test, Aurafarbe, Energielesung, Persönlichkeitstest, Aura-Quiz, spiritueller Test",
     "og_title": "Welche Farbe hat deine Aura? - 8 Aura-Typen",
-    "og_description": "Schliesse deine Augen und atme tief. Welche Farbe siehst du? Mach dieses 10-Fragen-Quiz und entdecke deine Aurafarbe!",
+    "og_description": "Schließe deine Augen und atme. Welche Farbe siehst du? Mache dieses Quiz mit 10 Fragen, um deine Aurafarbe zu entdecken!",
     "twitter_title": "Welche Farbe hat deine Aura? - Aura-Lesung Quiz",
-    "twitter_description": "Entdecke deine Aurafarbe mit 10 inspirierenden Fragen!"
+    "twitter_description": "Entdecke deine Aurafarbe mit 10 verträumten Fragen!"
   },
   "app": {
     "skipLink": "Zum Hauptinhalt springen",
-    "loading": "Energien werden gelesen..."
+    "loading": "Lese Energien..."
   },
   "intro": {
     "title": "Welche Farbe hat deine Aura?",
     "subtitle": "Entdecke die Energie, die dich umgibt",
-    "description": "Beantworte 10 Fragen, um deine Aurafarbe zu enthuellen.",
-    "description_2": "Entdecke deine verborgene Energie, Staerken und kompatible Auren!",
+    "description": "Beantworte 10 verträumte Fragen, um deine Aurafarbe zu enthüllen.",
+    "description_2": "Entdecke deine verborgene Energie, Stärken und kompatible Auren!",
     "time_estimate": "Dauert etwa 2 Minuten"
   },
   "aura": {
     "ruby_short": "Rubin",
     "ocean_short": "Ozean",
-    "golden_short": "Gold",
+    "golden_short": "Golden",
     "emerald_short": "Smaragd",
     "violet_short": "Violett",
     "crystal_short": "Kristall",
@@ -30,8 +30,8 @@
     "obsidian_short": "Obsidian"
   },
   "button": {
-    "start": "Aura-Lesung starten",
-    "back": "Zurueck",
+    "start": "Aura-Lesung beginnen",
+    "back": "Zurück",
     "retry": "Quiz wiederholen",
     "share_whatsapp": "WhatsApp",
     "share_twitter": "Twitter",
@@ -41,70 +41,70 @@
   "quiz": {
     "question_label": "FRAGE",
     "q1": {
-      "text": "Wenn du die Augen schliesst und tief einatmest, was siehst du?",
+      "text": "Wenn du deine Augen schließt und tief atmest, was siehst du?",
       "opt0": "Flackernde Flammen, die in der Dunkelheit tanzen",
-      "opt1": "Ein endloser, tiefer Ozean bis zum Horizont",
-      "opt2": "Eine sonnendurchflutete Wiese voller Wildblumen",
+      "opt1": "Endloser tiefer Ozean, der sich bis zum Horizont erstreckt",
+      "opt2": "Eine sonnenbeschienene Wiese voller Wildblumen",
       "opt3": "Wirbelnde Galaxien und ferne Sterne"
     },
     "q2": {
-      "text": "Ein Fremder setzt sich neben dich und faengt an zu weinen. Was ist dein Instinkt?",
-      "opt0": "Ich fuehle den Schmerz tief und moechte troesten",
+      "text": "Ein Fremder setzt sich neben dich und beginnt zu weinen. Was ist dein Instinkt?",
+      "opt0": "Ich fühle ihren Schmerz zutiefst und möchte sie trösten",
       "opt1": "Ich analysiere die Situation, um praktische Hilfe anzubieten",
-      "opt2": "Ich versuche, die Stimmung mit Waerme und Humor aufzuhellen",
-      "opt3": "Ich respektiere den Raum, sende aber still gute Energie"
+      "opt2": "Ich versuche, ihre Stimmung mit Wärme und Humor aufzuhellen",
+      "opt3": "Ich respektiere ihren Raum, aber sende still gute Energie"
     },
     "q3": {
-      "text": "Welches Wetter spricht zu deiner Seele?",
-      "opt0": "Ein Gewitter -- roh, maechtig, elektrisch",
-      "opt1": "Sanfter Regen am Fenster -- beruhigend und nachdenklich",
-      "opt2": "Goldener Sonnenuntergang, der den Himmel in warme Toene taucht",
-      "opt3": "Morgendlicher Nebel -- geheimnisvoll und friedlich"
+      "text": "Welche Art von Wetter spricht zu deiner Seele?",
+      "opt0": "Ein Gewitter -- roh, kraftvoll, elektrisch",
+      "opt1": "Sanfter Regen am Fenster -- beruhigend und introspektiv",
+      "opt2": "Goldener Sonnenuntergang, der den Himmel in warmen Tönen malt",
+      "opt3": "Nebliger Morgennebel -- geheimnisvoll und ruhig"
     },
     "q4": {
-      "text": "Wenn dein Leben ein Musikstueck waere, wie wuerde es klingen?",
-      "opt0": "Eine epische Orchestersymphonie -- grandios und leidenschaftlich",
+      "text": "Wenn dein Leben ein Musikstück wäre, wie würde es klingen?",
+      "opt0": "Eine epische Orchestersinfonnie -- grandios und leidenschaftlich",
       "opt1": "Eine eindringliche Klaviermelodie -- tief und emotional",
-      "opt2": "Naturklaenge mit sanften Gloeckchen -- friedvoll",
+      "opt2": "Naturgeräusche gemischt mit sanften Glockenspielen -- friedlich",
       "opt3": "Elektronische Ambient-Musik -- futuristisch und einzigartig"
     },
     "q5": {
-      "text": "Du findest eine alte, verschlossene Truhe. Was tust du?",
-      "opt0": "Sofort aufbrechen -- ich muss wissen, was drin ist",
-      "opt1": "Das Schloss studieren und methodisch den Schluessel suchen",
-      "opt2": "Sie festhalten und versuchen zu fuehlen, was drin ist",
-      "opt3": "Sie lassen. Manche Geheimnisse sollen verborgen bleiben"
+      "text": "Du findest eine alte verschlossene Kiste. Was machst du?",
+      "opt0": "Breche sie sofort auf -- ich muss es wissen",
+      "opt1": "Untersuche das Schloss, finde methodisch den Schlüssel",
+      "opt2": "Halte sie nah und versuche zu fühlen, was drinnen ist",
+      "opt3": "Lasse sie. Manche Geheimnisse sollten verborgen bleiben"
     },
     "q6": {
       "text": "Was raubt dir am meisten Energie?",
       "opt0": "In der Routine festzustecken ohne Aufregung",
-      "opt1": "Oberflaechliche Gespraeche, die nie in die Tiefe gehen",
+      "opt1": "Oberflächliche Gespräche, die nie in die Tiefe gehen",
       "opt2": "Konflikte und negative Umgebungen",
       "opt3": "Gezwungen zu sein, mich anzupassen und zu verstecken, wer ich bin"
     },
     "q7": {
-      "text": "Du wachst mit einer Superkraft auf. Welche passt am besten zu dir?",
-      "opt0": "Andere durch Beruehrung heilen",
+      "text": "Du wachst mit einer Superkraft auf. Welche resoniert am meisten?",
+      "opt0": "Andere mit einer Berührung heilen",
       "opt1": "Gedanken lesen und die Wahrheit sehen",
-      "opt2": "Andere mit unerschuetterlichem Selbstvertrauen inspirieren",
-      "opt3": "Gestaltwandlung -- alles werden, was ich mir vorstelle"
+      "opt2": "Andere mit unerschütterlichem Selbstvertrauen inspirieren",
+      "opt3": "Gestaltwandeln -- alles werden, was ich mir vorstelle"
     },
     "q8": {
-      "text": "Wie ist deine Beziehung zur Einsamkeit?",
-      "opt0": "Ich brauche sie -- Alleinsein ist, wenn ich auftanke",
-      "opt1": "Ich mag die Balance -- etwas allein, etwas gesellig",
-      "opt2": "Ich bevorzuge Gesellschaft, geniesse aber stille Reflexion",
-      "opt3": "Menschen geben mir Energie -- je mehr, desto besser"
+      "text": "Was ist deine Beziehung zur Einsamkeit?",
+      "opt0": "Ich sehne mich danach -- Alleinsein ist, wenn ich auftanke",
+      "opt1": "Ich mag Balance -- etwas allein, etwas sozial",
+      "opt2": "Ich bevorzuge Gesellschaft, genieße aber stille Reflexion",
+      "opt3": "Menschen energetisieren mich -- je mehr, desto besser"
     },
     "q9": {
-      "text": "Ein Traum wiederholt sich staendig. Wovon handelt er?",
-      "opt0": "Fliegen durch Nordlicht-Himmel ueber Bergen",
-      "opt1": "Eintauchen in ein leuchtendes Unterwasserkoenigreich",
+      "text": "Ein Traum wiederholt sich immer wieder. Wovon handelt er?",
+      "opt0": "Fliegen durch von Polarlichtern erleuchtete Himmel über Bergen",
+      "opt1": "Tauchen in ein leuchtendes Unterwasserkönigreich",
       "opt2": "Tanzen in einem Rosengarten unter Sternenlicht",
       "opt3": "Am Rand eines Vulkans stehen, ohne Angst"
     },
     "q10": {
-      "text": "Waehle das Wort, das sich am meisten nach Zuhause anfuehlt:",
+      "text": "Wähle das Wort, das sich am meisten wie Zuhause anfühlt:",
       "opt0": "Leidenschaft",
       "opt1": "Weisheit",
       "opt2": "Harmonie",
@@ -112,20 +112,20 @@
     }
   },
   "analyzing": {
-    "title": "Dein Energiefeld wird gelesen...",
-    "subtitle": "Deine Aura-Frequenzen werden abgestimmt"
+    "title": "Lese dein Energiefeld...",
+    "subtitle": "Richte deine Aura-Frequenzen aus"
   },
   "result": {
     "your_aura": "DEINE AURAFARBE",
-    "strengths": "Deine Staerken",
+    "strengths": "Deine Stärken",
     "compatible": "Kompatible Auren",
-    "famous": "Beruehmtheiten mit deiner Aura",
+    "famous": "Berühmte Personen mit deiner Aura",
     "share": "Teile deine Aura",
     "ruby": {
       "name": "Rubinrot",
-      "tagline": "Der leidenschaftliche Anfuehrer",
-      "description": "Deine Aura brennt in Rubinrot -- die Farbe purer Leidenschaft, Mut und unaufhaltsamer Entschlossenheit. Du bist ein geborener Anfuehrer, der andere durch die Kraft deiner Persoenlichkeit inspiriert. Deine Energie ist magnetisch: Wenn du einen Raum betrittst, spueren es alle. Du lebst mutig, liebst intensiv und gibst dich mit nichts Geringerem als dem Aussergewoehnlichen zufrieden.",
-      "strength0": "Furchtlose Fuehrung",
+      "tagline": "Der Leidenschaftliche Anführer",
+      "description": "Deine Aura brennt in Rubinrot -- die Farbe roher Leidenschaft, Mut und unaufhaltsamer Tatkraft. Du bist ein geborener Anführer, der andere durch schiere Persönlichkeit inspiriert. Deine Energie ist magnetisch: Wenn du einen Raum betrittst, spüren es die Menschen. Du lebst mutig, liebst leidenschaftlich und akzeptierst nichts weniger als außergewöhnlich.",
+      "strength0": "Furchtlose Führung",
       "strength1": "Unzerbrechlicher Wille",
       "strength2": "Tiefe Leidenschaft",
       "strength3": "Ansteckende Energie",
@@ -136,8 +136,8 @@
     },
     "ocean": {
       "name": "Ozeanblau",
-      "tagline": "Der Tiefdenker",
-      "description": "Deine Aura strahlt Ozeanblau aus -- die Farbe unendlicher Tiefe, Weisheit und emotionaler Intelligenz. Wie der Ozean selbst hast du eine ruhige Oberflaeche, aber unglaubliche Tiefe darunter. Du durchschaust Fassaden und verstehst Menschen auf einer Ebene, die anderen verschlossen bleibt. Dein Verstand ist dein groesstes Gut, und deine Empathie reicht so tief wie das Meer.",
+      "tagline": "Der Tiefgründige Denker",
+      "description": "Deine Aura strahlt in Ozeanblau -- die Farbe unendlicher Tiefe, Weisheit und emotionaler Intelligenz. Wie der Ozean selbst hast du ruhige Oberflächen, aber unglaubliche Tiefe darunter. Du durchschaust Fassaden und verstehst Menschen auf einer Ebene, die andere nicht können. Dein Verstand ist dein größtes Kapital, und dein Mitgefühl ist tief wie das Meer.",
       "strength0": "Tiefe Einsicht",
       "strength1": "Analytischer Verstand",
       "strength2": "Emotionale Tiefe",
@@ -149,11 +149,11 @@
     },
     "golden": {
       "name": "Goldgelb",
-      "tagline": "Der kreative Optimist",
-      "description": "Deine Aura leuchtet in Goldgelb -- die Farbe des Sonnenscheins, der Kreativitaet und grenzenlosen Optimismus. Du bist die Person, die jeden Raum erhellt und das Unmoegliche moeglich erscheinen laesst. Dein kreativer Geist sieht ueberall Schoenheit und Moeglichkeiten. Menschen werden von deiner Waerme angezogen wie Sonnenblumen, die sich dem Licht zuwenden.",
+      "tagline": "Der Kreative Optimist",
+      "description": "Deine Aura leuchtet in Goldgelb -- die Farbe des Sonnenscheins, der Kreativität und des grenzenlosen Optimismus. Du bist die Person, die jeden Raum erhellt und das Unmögliche erreichbar erscheinen lässt. Dein kreativer Geist sieht überall Schönheit und Möglichkeiten. Menschen werden von deiner Wärme angezogen wie Sonnenblumen, die sich zur Sonne drehen.",
       "strength0": "Strahlender Optimismus",
       "strength1": "Kreatives Genie",
-      "strength2": "Natuerlicher Charme",
+      "strength2": "Natürlicher Charme",
       "strength3": "Inspirierende Vision",
       "famous0": "BTS Jin",
       "famous1": "Oprah Winfrey",
@@ -161,23 +161,23 @@
       "famous3": "Frida Kahlo"
     },
     "emerald": {
-      "name": "Smaragdgruen",
-      "tagline": "Der natuerliche Heiler",
-      "description": "Deine Aura gluet in Smaragdgruen -- die Farbe der Heilung, des Wachstums und der tiefen Verbindung mit der Natur. Du besitzt eine seltene Gabe: die Faehigkeit, anderen das Gefuehl von Sicherheit, Gehoertsein und Erneuerung zu geben. Wie ein uralter Wald ist deine Gegenwart erdend und heilsam. Du heilst nicht nur durch Worte, sondern durch die reine Waerme deines Wesens.",
-      "strength0": "Heilende Praesenz",
-      "strength1": "Tiefe Empathie",
-      "strength2": "Wachstumsorientiertes Denken",
-      "strength3": "Natuerliches Gleichgewicht",
+      "name": "Smaragdgrün",
+      "tagline": "Der Natürliche Heiler",
+      "description": "Deine Aura glüht in Smaragdgrün -- die Farbe der Heilung, des Wachstums und der tiefen Verbindung mit der Natur. Du besitzt eine seltene Gabe: die Fähigkeit, anderen das Gefühl zu geben, sicher, gehört und wiederhergestellt zu sein. Wie ein alter Wald ist deine Gegenwart erdend und erholsam. Du heilst nicht nur durch Worte, sondern durch die reine Wärme deines Wesens.",
+      "strength0": "Heilende Präsenz",
+      "strength1": "Tiefes Mitgefühl",
+      "strength2": "Wachstumsorientierung",
+      "strength3": "Natürliche Balance",
       "famous0": "Keanu Reeves",
       "famous1": "Jane Goodall",
       "famous2": "Bob Ross",
       "famous3": "Dalai Lama"
     },
     "violet": {
-      "name": "Violett-Lila",
-      "tagline": "Der spirituelle Mystiker",
-      "description": "Deine Aura pulsiert in Violett-Lila -- die Farbe des spirituellen Erwachens, der Intuition und des kosmischen Bewusstseins. Du existierst zwischen den Welten und nimmst Wahrheiten wahr, die andere uebersehen. Deine Intuition ist erstaunlich treffsicher, und du weisst oft Dinge, bevor sie geschehen. Du fuehlst dich zu den Mysterien des Daseins hingezogen und findest Sinn, wo andere nur Chaos sehen.",
-      "strength0": "Starke Intuition",
+      "name": "Violettlila",
+      "tagline": "Der Spirituelle Mystiker",
+      "description": "Deine Aura pulsiert in Violettlila -- die Farbe spirituellen Erwachens, der Intuition und des kosmischen Bewusstseins. Du existierst zwischen Welten und spürst Wahrheiten, die andere übersehen. Deine Intuition ist unheimlich präzise, und du weißt oft Dinge, bevor sie geschehen. Du fühlst dich zu den Mysterien der Existenz hingezogen und findest Bedeutung, wo andere Chaos sehen.",
+      "strength0": "Mächtige Intuition",
       "strength1": "Spirituelle Weisheit",
       "strength2": "Kosmisches Bewusstsein",
       "strength3": "Kreative Tiefe",
@@ -187,12 +187,12 @@
       "famous3": "Bjork"
     },
     "crystal": {
-      "name": "Kristallweiss",
-      "tagline": "Der Reine und Ausgeglichene",
-      "description": "Deine Aura erstrahlt in Kristallweiss -- die Farbe der Klarheit, Reinheit und perfekten Balance. Du bist eine seltene Seele, die Harmonie in allen Dingen verkoerpert. Wie ein Kristallprisma nimmst du die Energien deiner Umgebung auf und verwandelst sie in etwas Wunderbares. Deine Klarheit des Ziels und innerer Frieden sind deine groessten Geschenke an die Welt.",
+      "name": "Kristallweiß",
+      "tagline": "Der Reine & Ausgeglichene",
+      "description": "Deine Aura glänzt in Kristallweiß -- die Farbe der Klarheit, Reinheit und perfekten Balance. Du bist eine seltene Seele, die Harmonie in allen Dingen verkörpert. Wie ein Kristallprisma nimmst du die Energien um dich herum auf und verwandelst sie in etwas Schönes. Deine Zielklarheit und innerer Frieden sind deine größten Geschenke an die Welt.",
       "strength0": "Kristallklare Klarheit",
       "strength1": "Innere Balance",
-      "strength2": "Friedvolle Praesenz",
+      "strength2": "Friedliche Präsenz",
       "strength3": "Reinigende Energie",
       "famous0": "Audrey Hepburn",
       "famous1": "Gandhi",
@@ -201,25 +201,25 @@
     },
     "nebula": {
       "name": "Nebelrosa",
-      "tagline": "Der romantische Traeumer",
-      "description": "Deine Aura wirbelt in Nebelrosa -- die Farbe romantischer Traeume, kuenstlerischer Schoenheit und zarter Liebe. Du erlebst die Welt durch eine Linse des Staunens und der Schoenheit, die die meisten Menschen nach der Kindheit verlieren. Deine Vorstellungskraft ist so weit wie ein Nebel und gebiert neue Sterne der Kreativitaet. Du liebst zutiefst, traeumst lebhaft und schaffst Schoenheit, wohin du auch gehst.",
+      "tagline": "Der Romantische Träumer",
+      "description": "Deine Aura wirbelt in Nebelrosa -- die Farbe romantischer Träume, künstlerischer Schönheit und zärtlicher Liebe. Du erlebst die Welt durch eine Linse des Staunens und der Schönheit, die die meisten Menschen nach der Kindheit verlieren. Deine Fantasie ist weit wie ein Nebel und gebiert neue Sterne der Kreativität. Du liebst tief, träumst lebendig und erschaffst Schönheit, wohin du auch gehst.",
       "strength0": "Grenzenlose Vorstellungskraft",
-      "strength1": "Tiefe romantische Liebe",
-      "strength2": "Kuenstlerische Feinfuehligkeit",
-      "strength3": "Traeumerische Kreativitaet",
+      "strength1": "Tiefe Romantische Liebe",
+      "strength2": "Künstlerische Sensibilität",
+      "strength3": "Verträumte Kreativität",
       "famous0": "Taylor Swift",
-      "famous1": "Studio Ghibli Characters",
+      "famous1": "Studio Ghibli-Charaktere",
       "famous2": "Claude Monet",
       "famous3": "BTS V"
     },
     "obsidian": {
       "name": "Obsidianschwarz",
-      "tagline": "Der unabhaengige Visionaer",
-      "description": "Deine Aura strahlt Obsidianschwarz aus -- die Farbe der Unabhaengigkeit, des Geheimnisses und visionaerer Kraft. Du gehst deinen eigenen Weg und weigerst dich, von anderen definiert zu werden. Wie Obsidian, der im Vulkanfeuer geschmiedet wurde, haben intensive Erfahrungen dich zu etwas Unzerbrechlichem geformt. Deine Tiefe und Komplexitaet faszinieren jene, die dein Vertrauen gewinnen, endlos.",
-      "strength0": "Wilde Unabhaengigkeit",
-      "strength1": "Schuetzende Kraft",
+      "tagline": "Der Unabhängige Visionär",
+      "description": "Deine Aura strahlt Obsidianschwarz aus -- die Farbe der Unabhängigkeit, des Geheimnisses und visionärer Kraft. Du gehst deinen eigenen Weg und weigerst dich, von anderen definiert zu werden. Wie Obsidian, der in vulkanischem Feuer geschmiedet wurde, wurdest du durch intensive Erfahrungen zu etwas Unzerbrechlichem geformt. Deine Tiefe und Komplexität machen dich endlos faszinierend für diejenigen, die dein Vertrauen verdienen.",
+      "strength0": "Heftige Unabhängigkeit",
+      "strength1": "Schützende Kraft",
       "strength2": "Geheimnisvolle Tiefe",
-      "strength3": "Visionaeres Denken",
+      "strength3": "Visionäres Denken",
       "famous0": "Zendaya",
       "famous1": "Steve Jobs",
       "famous2": "Billie Eilish",
@@ -228,12 +228,12 @@
   },
   "share": {
     "text": "Meine Aurafarbe ist",
-    "cta": "Finde deine Aurafarbe heraus:"
+    "cta": "Finde deine Aurafarbe:"
   },
   "toast": {
     "copied": "Link kopiert!"
   },
   "game": {
-    "back": "DopaBrain Startseite"
+    "back": "DopaBrain Home"
   }
 }
