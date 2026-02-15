@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Baca Aura - Apa Warna Auramu? | DopaBrain",
+    "description": "Apa warna auramu? Jawab 10 pertanyaan untuk menemukan warna energimu. 8 jenis aura unik dengan analisis kepribadian. Bagikan hasilmu!",
+    "keywords": "tes aura, warna aura, pembacaan energi, tes kepribadian, kuis aura, tes spiritual",
+    "og_title": "Apa Warna Auramu? - 8 Jenis Aura",
+    "og_description": "Pejamkan mata dan tarik napas. Warna apa yang kamu lihat? Ikuti kuis 10 pertanyaan ini untuk menemukan warna auramu!",
+    "twitter_title": "Apa Warna Auramu? - Kuis Baca Aura",
+    "twitter_description": "Temukan warna auramu dengan 10 pertanyaan penuh makna!"
+  },
+  "app": {
+    "skipLink": "Langsung ke konten utama",
+    "loading": "Membaca energimu..."
+  },
+  "intro": {
+    "title": "Apa Warna Auramu?",
+    "subtitle": "Temukan energi yang mengelilingimu",
+    "description": "Jawab 10 pertanyaan untuk mengungkap warna auramu.",
+    "description_2": "Ungkap energi tersembunyi, kekuatan, dan aura yang cocok denganmu!",
+    "time_estimate": "Sekitar 2 menit"
+  },
+  "aura": {
+    "ruby_short": "Rubi",
+    "ocean_short": "Samudra",
+    "golden_short": "Emas",
+    "emerald_short": "Zamrud",
+    "violet_short": "Violet",
+    "crystal_short": "Kristal",
+    "nebula_short": "Nebula",
+    "obsidian_short": "Obsidian"
+  },
+  "button": {
+    "start": "Mulai Baca Aura",
+    "back": "Kembali",
+    "retry": "Ulangi Kuis",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Salin Link"
+  },
+  "quiz": {
+    "question_label": "PERTANYAAN",
+    "q1": {
+      "text": "Saat kamu memejamkan mata dan bernapas dalam, apa yang kamu lihat?",
+      "opt0": "Api yang menari-nari dalam kegelapan",
+      "opt1": "Samudra tak berujung membentang hingga cakrawala",
+      "opt2": "Padang rumput bermandikan sinar matahari penuh bunga liar",
+      "opt3": "Galaksi berputar dan bintang-bintang yang jauh"
+    },
+    "q2": {
+      "text": "Seseorang yang tak dikenal duduk di sampingmu dan mulai menangis. Apa instingmu?",
+      "opt0": "Aku merasakan sakitnya dan ingin menghiburnya",
+      "opt1": "Aku menganalisis situasi untuk menawarkan bantuan praktis",
+      "opt2": "Aku mencoba mencerahkan suasana hatinya dengan kehangatan dan humor",
+      "opt3": "Aku menghormati ruangnya tapi diam-diam mengirimkan energi positif"
+    },
+    "q3": {
+      "text": "Cuaca seperti apa yang berbicara kepada jiwamu?",
+      "opt0": "Badai petir -- mentah, penuh kekuatan, elektrik",
+      "opt1": "Hujan lembut di jendela -- menenangkan dan introspektif",
+      "opt2": "Matahari terbenam keemasan melukis langit dengan warna hangat",
+      "opt3": "Kabut pagi yang samar -- misterius dan damai"
+    },
+    "q4": {
+      "text": "Jika hidupmu adalah sebuah lagu, seperti apa bunyinya?",
+      "opt0": "Simfoni orkestra epik -- megah dan penuh gairah",
+      "opt1": "Melodi piano yang menghantui -- dalam dan emosional",
+      "opt2": "Suara alam berpadu lonceng lembut -- tenteram",
+      "opt3": "Musik elektronik ambient -- futuristik dan unik"
+    },
+    "q5": {
+      "text": "Kamu menemukan kotak kuno yang terkunci. Apa yang kamu lakukan?",
+      "opt0": "Buka paksa sekarang juga -- aku harus tahu isinya",
+      "opt1": "Pelajari kuncinya, cari cara membukanya secara metodis",
+      "opt2": "Peluk erat dan coba rasakan apa yang ada di dalamnya",
+      "opt3": "Biarkan saja. Beberapa rahasia memang seharusnya tersembunyi"
+    },
+    "q6": {
+      "text": "Apa yang paling menguras energimu?",
+      "opt0": "Terjebak dalam rutinitas tanpa keseruan",
+      "opt1": "Percakapan dangkal yang tidak pernah mendalam",
+      "opt2": "Konflik dan lingkungan negatif",
+      "opt3": "Dipaksa menyesuaikan diri dan menyembunyikan jati diri"
+    },
+    "q7": {
+      "text": "Kamu terbangun dengan kekuatan super. Mana yang paling cocok untukmu?",
+      "opt0": "Menyembuhkan orang lain dengan sentuhan",
+      "opt1": "Membaca pikiran dan melihat kebenaran",
+      "opt2": "Menginspirasi orang lain dengan kepercayaan diri yang tak tergoyahkan",
+      "opt3": "Berubah wujud -- menjadi apa pun yang kubayangkan"
+    },
+    "q8": {
+      "text": "Bagaimana hubunganmu dengan kesendirian?",
+      "opt0": "Aku membutuhkannya -- waktu sendiri adalah saat aku mengisi ulang energi",
+      "opt1": "Aku suka keseimbangan -- kadang sendiri, kadang bersosialisasi",
+      "opt2": "Aku lebih suka ditemani tapi menikmati refleksi tenang",
+      "opt3": "Aku bersemangat di keramaian -- semakin banyak orang, semakin baik"
+    },
+    "q9": {
+      "text": "Sebuah mimpi terus berulang. Tentang apa mimpi itu?",
+      "opt0": "Terbang melintasi langit aurora di atas pegunungan",
+      "opt1": "Menyelam ke kerajaan bawah laut yang bercahaya",
+      "opt2": "Menari di taman mawar di bawah cahaya bintang",
+      "opt3": "Berdiri di tepi gunung berapi, tanpa rasa takut"
+    },
+    "q10": {
+      "text": "Pilih kata yang paling terasa seperti rumah bagimu:",
+      "opt0": "Gairah",
+      "opt1": "Kebijaksanaan",
+      "opt2": "Harmoni",
+      "opt3": "Misteri"
+    }
+  },
+  "analyzing": {
+    "title": "Membaca medan energimu...",
+    "subtitle": "Menyelaraskan frekuensi auramu"
+  },
+  "result": {
+    "your_aura": "WARNA AURAMU",
+    "strengths": "Kekuatanmu",
+    "compatible": "Aura yang Cocok",
+    "famous": "Tokoh Terkenal dengan Aura yang Sama",
+    "share": "Bagikan Auramu",
+    "ruby": {
+      "name": "Merah Rubi",
+      "tagline": "Sang Pemimpin Penuh Gairah",
+      "description": "Auramu menyala dengan Merah Rubi -- warna gairah murni, keberanian, dan semangat yang tak terhentikan. Kamu adalah pemimpin alami yang menginspirasi orang lain melalui kekuatan kepribadianmu. Energimu magnetis: saat kamu memasuki ruangan, semua orang merasakannya. Kamu hidup dengan berani, mencintai dengan penuh api, dan menolak menerima sesuatu yang kurang dari luar biasa.",
+      "strength0": "Kepemimpinan Tanpa Gentar",
+      "strength1": "Tekad Baja",
+      "strength2": "Gairah Mendalam",
+      "strength3": "Energi Menular",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Biru Samudra",
+      "tagline": "Sang Pemikir Mendalam",
+      "description": "Auramu memancarkan Biru Samudra -- warna kedalaman tak terbatas, kebijaksanaan, dan kecerdasan emosional. Seperti samudra itu sendiri, permukaanmu tenang namun menyimpan kedalaman luar biasa di bawahnya. Kamu bisa melihat menembus kepura-puraan dan memahami orang pada level yang tak bisa dijangkau orang lain. Pikiranmu adalah aset terbesarmu, dan empatimu sedalam lautan.",
+      "strength0": "Wawasan Mendalam",
+      "strength1": "Pikiran Analitis",
+      "strength2": "Kedalaman Emosional",
+      "strength3": "Visi Strategis",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Kuning Keemasan",
+      "tagline": "Sang Optimis Kreatif",
+      "description": "Auramu bersinar dengan Kuning Keemasan -- warna sinar matahari, kreativitas, dan optimisme tanpa batas. Kamu adalah orang yang menerangi setiap ruangan dan membuat yang mustahil terasa mungkin. Pikiran kreatifmu melihat keindahan dan peluang di mana-mana. Orang-orang tertarik pada kehangatanmu seperti bunga matahari yang menghadap ke cahaya.",
+      "strength0": "Optimisme Berseri",
+      "strength1": "Kejeniusan Kreatif",
+      "strength2": "Pesona Alami",
+      "strength3": "Visi yang Menginspirasi",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Hijau Zamrud",
+      "tagline": "Sang Penyembuh Alami",
+      "description": "Auramu bersinar dengan Hijau Zamrud -- warna penyembuhan, pertumbuhan, dan koneksi mendalam dengan alam. Kamu memiliki karunia langka: kemampuan membuat orang lain merasa aman, didengar, dan dipulihkan. Seperti hutan purba, kehadiranmu membumi dan memulihkan. Kamu menyembuhkan bukan hanya dengan kata-kata, tetapi dengan kehangatan murni dari keberadaanmu.",
+      "strength0": "Kehadiran yang Menyembuhkan",
+      "strength1": "Empati Mendalam",
+      "strength2": "Pola Pikir Bertumbuh",
+      "strength3": "Keseimbangan Alami",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Ungu Violet",
+      "tagline": "Sang Mistikus Spiritual",
+      "description": "Auramu berdenyut dengan Ungu Violet -- warna kebangkitan spiritual, intuisi, dan kesadaran kosmis. Kamu berada di antara dua dunia, merasakan kebenaran yang diabaikan orang lain. Intuisimu sangat akurat, dan kamu sering mengetahui sesuatu sebelum terjadi. Kamu tertarik pada misteri keberadaan dan menemukan makna di mana orang lain hanya melihat kekacauan.",
+      "strength0": "Intuisi Kuat",
+      "strength1": "Kebijaksanaan Spiritual",
+      "strength2": "Kesadaran Kosmis",
+      "strength3": "Kedalaman Kreatif",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Putih Kristal",
+      "tagline": "Sang Murni dan Seimbang",
+      "description": "Auramu berkilau dengan Putih Kristal -- warna kejernihan, kemurnian, dan keseimbangan sempurna. Kamu adalah jiwa langka yang mewujudkan harmoni dalam segala hal. Seperti prisma kristal, kamu menyerap energi di sekitarmu dan mengubahnya menjadi sesuatu yang indah. Kejernihan tujuan dan kedamaian batinmu adalah hadiah terbesarmu untuk dunia.",
+      "strength0": "Kejernihan Kristal",
+      "strength1": "Keseimbangan Batin",
+      "strength2": "Kehadiran yang Damai",
+      "strength3": "Energi Pemurnian",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Merah Muda Nebula",
+      "tagline": "Sang Pemimpi Romantis",
+      "description": "Auramu berputar dengan Merah Muda Nebula -- warna mimpi romantis, keindahan artistik, dan cinta yang lembut. Kamu mengalami dunia melalui lensa keajaiban dan keindahan yang kebanyakan orang hilangkan setelah masa kecil. Imajinasimu seluas nebula, melahirkan bintang-bintang kreativitas baru. Kamu mencintai dengan mendalam, bermimpi dengan vivid, dan menciptakan keindahan di mana pun kamu berada.",
+      "strength0": "Imajinasi Tanpa Batas",
+      "strength1": "Cinta Romantis yang Dalam",
+      "strength2": "Kepekaan Artistik",
+      "strength3": "Kreativitas Penuh Mimpi",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Hitam Obsidian",
+      "tagline": "Sang Visioner Mandiri",
+      "description": "Auramu memancarkan Hitam Obsidian -- warna kemandirian, misteri, dan kekuatan visioner. Kamu berjalan di jalanmu sendiri dan menolak didefinisikan oleh orang lain. Seperti obsidian yang ditempa dalam api vulkanik, kamu telah dibentuk oleh pengalaman intens menjadi sesuatu yang tak bisa dihancurkan. Kedalaman dan kompleksitasmu membuat mereka yang mendapatkan kepercayaanmu terus terpesona tanpa henti.",
+      "strength0": "Kemandirian yang Tangguh",
+      "strength1": "Kekuatan Pelindung",
+      "strength2": "Kedalaman Misterius",
+      "strength3": "Pemikiran Visioner",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "Warna auraku adalah",
+    "cta": "Temukan warna auramu:"
+  },
+  "toast": {
+    "copied": "Link berhasil disalin!"
+  },
+  "game": {
+    "back": "Beranda DopaBrain"
+  }
+}

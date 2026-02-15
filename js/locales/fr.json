@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Lecture d'Aura - Quelle est la Couleur de Votre Aura ? | DopaBrain",
+    "description": "Quelle est la couleur de votre aura ? Repondez a 10 questions pour decouvrir votre couleur d'energie. 8 types d'aura uniques avec analyse de personnalite. Partagez votre resultat !",
+    "keywords": "test d'aura, couleur d'aura, lecture d'energie, test de personnalite, quiz aura, test spirituel",
+    "og_title": "Quelle est la Couleur de Votre Aura ? - 8 Types d'Aura",
+    "og_description": "Fermez les yeux et respirez profondement. Quelle couleur voyez-vous ? Faites ce quiz de 10 questions pour decouvrir votre couleur d'aura !",
+    "twitter_title": "Quelle est la Couleur de Votre Aura ? - Quiz Lecture d'Aura",
+    "twitter_description": "Decouvrez votre couleur d'aura avec 10 questions inspirantes !"
+  },
+  "app": {
+    "skipLink": "Aller au contenu principal",
+    "loading": "Lecture des energies en cours..."
+  },
+  "intro": {
+    "title": "Quelle est la Couleur de Votre Aura ?",
+    "subtitle": "Decouvrez l'energie qui vous entoure",
+    "description": "Repondez a 10 questions pour reveler la couleur de votre aura.",
+    "description_2": "Devoilez votre energie cachee, vos forces et vos auras compatibles !",
+    "time_estimate": "Environ 2 minutes"
+  },
+  "aura": {
+    "ruby_short": "Rubis",
+    "ocean_short": "Ocean",
+    "golden_short": "Dore",
+    "emerald_short": "Emeraude",
+    "violet_short": "Violet",
+    "crystal_short": "Cristal",
+    "nebula_short": "Nebuleuse",
+    "obsidian_short": "Obsidienne"
+  },
+  "button": {
+    "start": "Commencer la Lecture d'Aura",
+    "back": "Retour",
+    "retry": "Refaire le Quiz",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copier le lien"
+  },
+  "quiz": {
+    "question_label": "QUESTION",
+    "q1": {
+      "text": "Quand vous fermez les yeux et respirez profondement, que voyez-vous ?",
+      "opt0": "Des flammes dansant dans l'obscurite",
+      "opt1": "Un ocean profond et infini s'etendant jusqu'a l'horizon",
+      "opt2": "Une prairie baignee de soleil remplie de fleurs sauvages",
+      "opt3": "Des galaxies tourbillonnantes et des etoiles lointaines"
+    },
+    "q2": {
+      "text": "Un inconnu s'assoit a cote de vous et se met a pleurer. Quel est votre instinct ?",
+      "opt0": "Je ressens sa douleur profondement et veux le reconforter",
+      "opt1": "J'analyse la situation pour proposer une aide concrete",
+      "opt2": "J'essaie d'eclaircir son humeur avec chaleur et humour",
+      "opt3": "Je respecte son espace tout en envoyant silencieusement de bonnes energies"
+    },
+    "q3": {
+      "text": "Quel type de meteo parle a votre ame ?",
+      "opt0": "Un orage -- brut, puissant, electrique",
+      "opt1": "Une pluie douce sur la fenetre -- apaisante et introspective",
+      "opt2": "Un coucher de soleil dore peignant le ciel de teintes chaudes",
+      "opt3": "Brume matinale -- mysterieuse et sereine"
+    },
+    "q4": {
+      "text": "Si votre vie etait un morceau de musique, comment sonnerait-il ?",
+      "opt0": "Une symphonie orchestrale epique -- grandiose et passionnee",
+      "opt1": "Une melodie de piano envoûtante -- profonde et emotionnelle",
+      "opt2": "Des sons de la nature meles a des carillons doux -- paisible",
+      "opt3": "De la musique electronique ambiante -- futuriste et unique"
+    },
+    "q5": {
+      "text": "Vous trouvez un ancien coffre verrouille. Que faites-vous ?",
+      "opt0": "Je l'ouvre de force immediatement -- je dois savoir",
+      "opt1": "J'etudie la serrure et cherche la cle methodiquement",
+      "opt2": "Je le serre contre moi et essaie de sentir ce qu'il contient",
+      "opt3": "Je le laisse. Certains secrets doivent rester caches"
+    },
+    "q6": {
+      "text": "Qu'est-ce qui epuise le plus votre energie ?",
+      "opt0": "Etre englue dans la routine sans aucune excitation",
+      "opt1": "Les conversations superficielles qui ne vont jamais en profondeur",
+      "opt2": "Les conflits et les environnements negatifs",
+      "opt3": "Etre force de me conformer et cacher qui je suis vraiment"
+    },
+    "q7": {
+      "text": "Vous vous reveillez avec un super-pouvoir. Lequel vous correspond le mieux ?",
+      "opt0": "Guerir les autres par le toucher",
+      "opt1": "Lire dans les pensees et voir la verite",
+      "opt2": "Inspirer les autres avec une confiance inebranlable",
+      "opt3": "Metamorphose -- devenir tout ce que j'imagine"
+    },
+    "q8": {
+      "text": "Quelle est votre relation avec la solitude ?",
+      "opt0": "J'en ai besoin -- c'est quand je me ressource",
+      "opt1": "J'aime l'equilibre -- un peu seul, un peu en societe",
+      "opt2": "Je prefere la compagnie mais j'apprecie la reflexion tranquille",
+      "opt3": "Les gens me donnent de l'energie -- plus on est de fous, plus on rit"
+    },
+    "q9": {
+      "text": "Un reve se repete sans cesse. De quoi s'agit-il ?",
+      "opt0": "Voler dans des cieux illumines d'aurores boreales au-dessus des montagnes",
+      "opt1": "Plonger dans un royaume sous-marin lumineux",
+      "opt2": "Danser dans un jardin de roses sous la lumiere des etoiles",
+      "opt3": "Se tenir au bord d'un volcan, sans aucune peur"
+    },
+    "q10": {
+      "text": "Choisissez le mot qui ressemble le plus a chez vous :",
+      "opt0": "Passion",
+      "opt1": "Sagesse",
+      "opt2": "Harmonie",
+      "opt3": "Mystere"
+    }
+  },
+  "analyzing": {
+    "title": "Lecture de votre champ energetique...",
+    "subtitle": "Alignement de vos frequences auriques"
+  },
+  "result": {
+    "your_aura": "VOTRE COULEUR D'AURA",
+    "strengths": "Vos Forces",
+    "compatible": "Auras Compatibles",
+    "famous": "Celebrites avec Votre Aura",
+    "share": "Partagez Votre Aura",
+    "ruby": {
+      "name": "Rouge Rubis",
+      "tagline": "Le Leader Passionne",
+      "description": "Votre aura brule de Rouge Rubis -- la couleur de la passion brute, du courage et d'une determination imparable. Vous etes un leader ne qui inspire les autres par la pure force de sa personnalite. Votre energie est magnetique : quand vous entrez dans une piece, tout le monde le ressent. Vous vivez avec audace, aimez intensement et refusez de vous contenter de moins que l'extraordinaire.",
+      "strength0": "Leadership Intrepide",
+      "strength1": "Volonte Indestructible",
+      "strength2": "Passion Profonde",
+      "strength3": "Energie Communicative",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Bleu Ocean",
+      "tagline": "Le Penseur Profond",
+      "description": "Votre aura rayonne de Bleu Ocean -- la couleur de la profondeur infinie, de la sagesse et de l'intelligence emotionnelle. Comme l'ocean lui-meme, votre surface est calme mais cache une profondeur incroyable en dessous. Vous percez les facades et comprenez les gens a un niveau que les autres ne peuvent atteindre. Votre esprit est votre plus grand atout, et votre empathie est profonde comme la mer.",
+      "strength0": "Vision Profonde",
+      "strength1": "Esprit Analytique",
+      "strength2": "Profondeur Emotionnelle",
+      "strength3": "Vision Strategique",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Jaune Dore",
+      "tagline": "L'Optimiste Creatif",
+      "description": "Votre aura brille de Jaune Dore -- la couleur du soleil, de la creativite et d'un optimisme sans limites. Vous etes la personne qui illumine chaque piece et rend l'impossible realisable. Votre esprit creatif voit de la beaute et des possibilites partout. Les gens sont attires par votre chaleur comme les tournesols se tournent vers le soleil.",
+      "strength0": "Optimisme Rayonnant",
+      "strength1": "Genie Creatif",
+      "strength2": "Charme Naturel",
+      "strength3": "Vision Inspirante",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Vert Emeraude",
+      "tagline": "Le Guerisseur Naturel",
+      "description": "Votre aura irradie de Vert Emeraude -- la couleur de la guerison, de la croissance et de la connexion profonde avec la nature. Vous possedez un don rare : la capacite de faire sentir aux autres qu'ils sont en securite, ecoutes et ressources. Comme une foret ancestrale, votre presence est enracinante et reparatrice. Vous guerissez non seulement par les mots, mais par la pure chaleur de votre etre.",
+      "strength0": "Presence Guerisseuse",
+      "strength1": "Empathie Profonde",
+      "strength2": "Esprit de Croissance",
+      "strength3": "Equilibre Naturel",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Violet Pourpre",
+      "tagline": "Le Mystique Spirituel",
+      "description": "Votre aura vibre de Violet Pourpre -- la couleur de l'eveil spirituel, de l'intuition et de la conscience cosmique. Vous existez entre les mondes, percevant des verites que les autres ignorent. Votre intuition est d'une precision troublante, et vous savez souvent les choses avant qu'elles n'arrivent. Vous etes attire par les mysteres de l'existence et trouvez du sens la ou les autres ne voient que le chaos.",
+      "strength0": "Intuition Puissante",
+      "strength1": "Sagesse Spirituelle",
+      "strength2": "Conscience Cosmique",
+      "strength3": "Profondeur Creative",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Blanc Cristal",
+      "tagline": "Le Pur et Equilibre",
+      "description": "Votre aura etincelle de Blanc Cristal -- la couleur de la clarte, de la purete et de l'equilibre parfait. Vous etes une ame rare qui incarne l'harmonie en toutes choses. Comme un prisme de cristal, vous absorbez les energies autour de vous et les transformez en quelque chose de magnifique. Votre clarte d'intention et votre paix interieure sont vos plus beaux cadeaux au monde.",
+      "strength0": "Clarte Cristalline",
+      "strength1": "Equilibre Interieur",
+      "strength2": "Presence Paisible",
+      "strength3": "Energie Purificatrice",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Rose Nebuleuse",
+      "tagline": "Le Reveur Romantique",
+      "description": "Votre aura tourbillonne de Rose Nebuleuse -- la couleur des reves romantiques, de la beaute artistique et de l'amour tendre. Vous percevez le monde a travers un prisme d'emerveillement et de beaute que la plupart des gens perdent apres l'enfance. Votre imagination est vaste comme une nebuleuse, donnant naissance a de nouvelles etoiles de creativite. Vous aimez profondement, revez intensement et creez de la beaute partout ou vous allez.",
+      "strength0": "Imagination Sans Limites",
+      "strength1": "Amour Romantique Profond",
+      "strength2": "Sensibilite Artistique",
+      "strength3": "Creativite Onirique",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Noir Obsidienne",
+      "tagline": "Le Visionnaire Independant",
+      "description": "Votre aura emane le Noir Obsidienne -- la couleur de l'independance, du mystere et du pouvoir visionnaire. Vous tracez votre propre chemin et refusez d'etre defini par les autres. Comme l'obsidienne forgee dans le feu volcanique, des experiences intenses vous ont faconne en quelque chose d'incassable. Votre profondeur et votre complexite fascinent sans fin ceux qui gagnent votre confiance.",
+      "strength0": "Independance Farouche",
+      "strength1": "Pouvoir Protecteur",
+      "strength2": "Profondeur Mysterieuse",
+      "strength3": "Pensee Visionnaire",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "Ma couleur d'aura est",
+    "cta": "Decouvrez votre couleur d'aura :"
+  },
+  "toast": {
+    "copied": "Lien copie !"
+  },
+  "game": {
+    "back": "Accueil DopaBrain"
+  }
+}

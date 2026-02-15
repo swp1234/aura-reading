@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Aura Okuma - Auranin Rengi Ne? | DopaBrain",
+    "description": "Auranin rengi ne? 10 soru cevaplayarak enerji rengini kesfet. 8 benzersiz aura turu ve kisilik analizi. Sonucunu paylas!",
+    "keywords": "aura testi, aura rengi, enerji okuma, kisilik testi, aura quiz, ruhani test",
+    "og_title": "Auranin Rengi Ne? - 8 Aura Turu",
+    "og_description": "Gozlerini kapat ve derin nefes al. Hangi rengi goruyorsun? 10 soruluk bu testi coz ve aura rengini kesfet!",
+    "twitter_title": "Auranin Rengi Ne? - Aura Okuma Testi",
+    "twitter_description": "10 etkileyici soruyla aura rengini kesfet!"
+  },
+  "app": {
+    "skipLink": "Ana iceriye atla",
+    "loading": "Enerjiler okunuyor..."
+  },
+  "intro": {
+    "title": "Auranin Rengi Ne?",
+    "subtitle": "Seni saran enerjiyi kesfet",
+    "description": "10 soruyu cevaplayarak aura rengini ortaya cikar.",
+    "description_2": "Gizli enerjini, guclu yanlarini ve uyumlu auralari kesfet!",
+    "time_estimate": "Yaklasik 2 dakika surer"
+  },
+  "aura": {
+    "ruby_short": "Yakut",
+    "ocean_short": "Okyanus",
+    "golden_short": "Altin",
+    "emerald_short": "Zumrut",
+    "violet_short": "Eflatun",
+    "crystal_short": "Kristal",
+    "nebula_short": "Bulutsu",
+    "obsidian_short": "Obsidyen"
+  },
+  "button": {
+    "start": "Aura Okumaya Basla",
+    "back": "Geri",
+    "retry": "Testi Tekrarla",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Linki Kopyala"
+  },
+  "quiz": {
+    "question_label": "SORU",
+    "q1": {
+      "text": "Gozlerini kapatip derin nefes aldiginda ne goruyorsun?",
+      "opt0": "Karanlikta dans eden alevler",
+      "opt1": "Ufka kadar uzanan sonsuz derin bir okyanus",
+      "opt2": "Yaban cicekleriyle dolu gunesli bir cayir",
+      "opt3": "Donen galaksiler ve uzak yildizlar"
+    },
+    "q2": {
+      "text": "Bir yabanci yanina oturup aglamaya basliyor. Icgudusel tepkin ne olur?",
+      "opt0": "Acisini derinden hisseder, onu teselli etmek isterim",
+      "opt1": "Durumu analiz eder, pratik yardim oneriririm",
+      "opt2": "Sicaklik ve mizahla moralini duzeltmeye calisirim",
+      "opt3": "Alanina saygi gosterir ama sessizce iyi enerji gonderirim"
+    },
+    "q3": {
+      "text": "Hangi hava durumu ruhunla konusur?",
+      "opt0": "Gok gurultusu firtinasi -- ham, guclu, elektrikli",
+      "opt1": "Camda yumusak yagmur -- sakinlestirici ve ic gozlemci",
+      "opt2": "Gokyuzunu sicak tonlarla boyayan altin gun batimi",
+      "opt3": "Sabah sisi -- gizemli ve huzurlu"
+    },
+    "q4": {
+      "text": "Hayatin bir muzik parcasi olsaydi, nasil duyulurdu?",
+      "opt0": "Epik bir orkestra senfonisi -- gorkemli ve tutkulu",
+      "opt1": "Etkileyici bir piyano melodisi -- derin ve duygusal",
+      "opt2": "Doga sesleri ve yumusak cingiraklarla -- huzur verici",
+      "opt3": "Elektronik ambient muzik -- futuristik ve benzersiz"
+    },
+    "q5": {
+      "text": "Kilitli eski bir kutu buldun. Ne yaparsin?",
+      "opt0": "Hemen acarim -- icinde ne var bilmem lazim",
+      "opt1": "Kilidi inceler, anahtari metodik sekilde ararim",
+      "opt2": "Yakinimda tutar, icinde ne oldugunu hissetmeye calisirim",
+      "opt3": "Oldugu gibi birakirim. Bazi sirlar gizli kalmali"
+    },
+    "q6": {
+      "text": "Enerjini en cok ne tuketiyor?",
+      "opt0": "Heyecan olmadan rutine saplanmak",
+      "opt1": "Asla derinlesmeyen yuzeysel sohbetler",
+      "opt2": "Catisma ve olumsuz ortamlar",
+      "opt3": "Uyum saglamaya ve kendimi gizlemeye zorlanmak"
+    },
+    "q7": {
+      "text": "Bir super gucle uyandiyorsun. Hangisi sana en cok uyar?",
+      "opt0": "Dokunarak baskalarina sifa vermek",
+      "opt1": "Zihin okuma ve gercegi gorme",
+      "opt2": "Sarsilmaz ozguvenle baskalarini ilham etmek",
+      "opt3": "Sekil degistirme -- hayal ettigim her seye donusmek"
+    },
+    "q8": {
+      "text": "Yalnizlikla iliskin nasil?",
+      "opt0": "Ona ihtiyacim var -- enerji topladim zamanlar yalnizken",
+      "opt1": "Denge severim -- biraz yalnizlik, biraz sosyallik",
+      "opt2": "Birlikte olmayi tercih ederim ama sessiz dusunceyi de severim",
+      "opt3": "Insanlarla enerji topluyorum -- ne kadar cok, o kadar iyi"
+    },
+    "q9": {
+      "text": "Tekrarlayan bir riya goruyorsun. Ne hakkinda?",
+      "opt0": "Daglarin ustunde kutup isiklariyla aydinlanmis gokyuzunde ucmak",
+      "opt1": "Isildayan bir sualti krallligina dalmak",
+      "opt2": "Yildiz isigi altinda gul bahcesinde dans etmek",
+      "opt3": "Bir yanardagin kenarinda korkusuzca durmak"
+    },
+    "q10": {
+      "text": "Sana en cok ev hissi veren kelimeyi sec:",
+      "opt0": "Tutku",
+      "opt1": "Bilgelik",
+      "opt2": "Uyum",
+      "opt3": "Gizem"
+    }
+  },
+  "analyzing": {
+    "title": "Enerji alanin okunuyor...",
+    "subtitle": "Aura frekanslarin hizalaniyor"
+  },
+  "result": {
+    "your_aura": "AURA RENGIN",
+    "strengths": "Guclu Yanlarin",
+    "compatible": "Uyumlu Auralar",
+    "famous": "Ayni Auraya Sahip Unluler",
+    "share": "Aurani Paylas",
+    "ruby": {
+      "name": "Yakut Kirmizisi",
+      "tagline": "Tutkulu Lider",
+      "description": "Auran Yakut Kirmizisiyla yaniyor -- ham tutkunun, cesaretin ve durdurulamaz kararlialigin rengi. Sen insanlari saf kisilik gucunle ilham veren dogal bir lidersin. Enerjin manyetik: bir odaya girdiginde herkes bunu hisseder. Cesurca yasarsin, siddetle seversin ve olagan ustunun altinda hicbir seye razı olmazsin.",
+      "strength0": "Korkusuz Liderlik",
+      "strength1": "Yikilmaz Irade",
+      "strength2": "Derin Tutku",
+      "strength3": "Bulasuci Enerji",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Okyanus Mavisi",
+      "tagline": "Derin Dusunur",
+      "description": "Auran Okyanus Mavisi yayiyor -- sonsuz derinligin, bilgeligin ve duygusal zekanin rengi. Okyanusun kendisi gibi, sakin bir yuzey ama altinda inanilmaz bir derinlik tasirsim. Maskelerin ardini gorur ve insanlari baskalarin ulasaamyacagi bir derinlikte anlarsin. Zihnin en buyuk kozundur ve empatin deniz kadar derindir.",
+      "strength0": "Derin Kavrayis",
+      "strength1": "Analitik Zihin",
+      "strength2": "Duygusal Derinlik",
+      "strength3": "Stratejik Vizyon",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Altin Sarisi",
+      "tagline": "Yaratici Iyimser",
+      "description": "Auran Altin Sarisiyla parlıyor -- gunes isiginin, yaraticiligin ve sinirsiz iyimserligin rengi. Sen her odayi aydinlatan ve imkansizi basarilabilir gosteren kisisin. Yaratici zihnin her yerde guzellik ve olasasilik gorur. Insanlar gunes ciceklerinin gunese donmesi gibi sicakligina cekilir.",
+      "strength0": "Isil Isil Iyimserlik",
+      "strength1": "Yaratici Deha",
+      "strength2": "Dogal Cazibe",
+      "strength3": "Ilham Veren Vizyon",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Zumrut Yesili",
+      "tagline": "Dogal Sifaci",
+      "description": "Auran Zumrut Yesiliyle parlıyor -- iyilesmenin, buyumenin ve dogayla derin baglantinin rengi. Nadir bir yetenegin var: baskalarina guven, dinlenmislik ve yenilenme hissi verme becerisi. Kadim bir orman gibi, varligin topraklayici ve onaricidir. Sadece sozlerle degil, varliginin saf sicakligiyla iyilestirirsin.",
+      "strength0": "Sifa Veren Varlik",
+      "strength1": "Derin Empati",
+      "strength2": "Gelisim Odakli Dusunce",
+      "strength3": "Dogal Denge",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Eflatun Moru",
+      "tagline": "Ruhani Mistik",
+      "description": "Auran Eflatun Moruyla atıyor -- ruhsal uyanis, sezgi ve kozmik bilincin rengi. Dusnyalar arasinda var olur, baskalarin gozden kacirdigi gercekleri hissedersin. Sezgin inanilmaz derecede dogrudur ve olaylari gerceklesmeden once bilirsin. Varligin gizemlerine cekilir, baskalarin kaos gordugu yerde anlam bulursun.",
+      "strength0": "Guclu Sezgi",
+      "strength1": "Ruhani Bilgelik",
+      "strength2": "Kozmik Farkindalik",
+      "strength3": "Yaratici Derinlik",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Kristal Beyazi",
+      "tagline": "Saf ve Dengeli",
+      "description": "Auran Kristal Beyaziyla parlıyor -- berrakligin, safligin ve mukemmel dengenin rengi. Sen her seyde uyumu somutlastiran nadir bir ruhsun. Bir kristal prizma gibi, cevrendeki enerjileri alir ve guzel bir seye donusturursun. Amac netligin ve ic huzurun dunyaya en buyuk armaganindir.",
+      "strength0": "Kristal Berraklik",
+      "strength1": "Ic Denge",
+      "strength2": "Huzurlu Varlik",
+      "strength3": "Aritici Enerji",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Bulutsu Pembesi",
+      "tagline": "Romantik Hayalperest",
+      "description": "Auran Bulutsu Pembesiyle dalgalaniyor -- romantik dusler, sanatsal guzellik ve sefkatli askin rengi. Dunyayi, cogu insanin cocuklugundan sonra kaybettigi bir hayret ve guzellik merceginden deneyimlersin. Hayal gucun bir bulutsu kadar genis, yeni yaraticilik yildizlari dogurur. Derinden seversin, canli dusler gorursun ve her yerde guzellik yaratirsin.",
+      "strength0": "Sinirsiz Hayal Gucu",
+      "strength1": "Derin Romantik Ask",
+      "strength2": "Sanatsal Duyarlilik",
+      "strength3": "Rusyamsi Yaraticilik",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Obsidyen Siyahi",
+      "tagline": "Bagimsiz Vizyoner",
+      "description": "Auran Obsidyen Siyahi yayiyor -- bagimsizligin, gizemin ve vizyoner gucun rengi. Kendi yolunda yurur ve baskalari tarafindan tanimlanmayi reddedersin. Volkanik ateste doven obsidyen gibi, yogun deneyimler seni kirilamaz bir seye donusturmustur. Derinligin ve karmasikligin, guvenini kazananlari sonsuzca buyuler.",
+      "strength0": "Azimli Bagimsizlik",
+      "strength1": "Koruyucu Guc",
+      "strength2": "Gizemli Derinlik",
+      "strength3": "Vizyoner Dusunce",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "Benim aura rengim",
+    "cta": "Senin aura rengin ne:"
+  },
+  "toast": {
+    "copied": "Link kopyalandi!"
+  },
+  "game": {
+    "back": "DopaBrain Ana Sayfa"
+  }
+}

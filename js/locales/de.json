@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Aura-Lesung - Welche Farbe hat deine Aura? | DopaBrain",
+    "description": "Welche Farbe hat deine Aura? Beantworte 10 Fragen und entdecke deine Energiefarbe. 8 einzigartige Aura-Typen mit Persoenlichkeitsanalyse. Teile dein Ergebnis!",
+    "keywords": "Aura-Test, Aurafarbe, Energielesung, Persoenlichkeitstest, Aura-Quiz, spiritueller Test",
+    "og_title": "Welche Farbe hat deine Aura? - 8 Aura-Typen",
+    "og_description": "Schliesse deine Augen und atme tief. Welche Farbe siehst du? Mach dieses 10-Fragen-Quiz und entdecke deine Aurafarbe!",
+    "twitter_title": "Welche Farbe hat deine Aura? - Aura-Lesung Quiz",
+    "twitter_description": "Entdecke deine Aurafarbe mit 10 inspirierenden Fragen!"
+  },
+  "app": {
+    "skipLink": "Zum Hauptinhalt springen",
+    "loading": "Energien werden gelesen..."
+  },
+  "intro": {
+    "title": "Welche Farbe hat deine Aura?",
+    "subtitle": "Entdecke die Energie, die dich umgibt",
+    "description": "Beantworte 10 Fragen, um deine Aurafarbe zu enthuellen.",
+    "description_2": "Entdecke deine verborgene Energie, Staerken und kompatible Auren!",
+    "time_estimate": "Dauert etwa 2 Minuten"
+  },
+  "aura": {
+    "ruby_short": "Rubin",
+    "ocean_short": "Ozean",
+    "golden_short": "Gold",
+    "emerald_short": "Smaragd",
+    "violet_short": "Violett",
+    "crystal_short": "Kristall",
+    "nebula_short": "Nebel",
+    "obsidian_short": "Obsidian"
+  },
+  "button": {
+    "start": "Aura-Lesung starten",
+    "back": "Zurueck",
+    "retry": "Quiz wiederholen",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Link kopieren"
+  },
+  "quiz": {
+    "question_label": "FRAGE",
+    "q1": {
+      "text": "Wenn du die Augen schliesst und tief einatmest, was siehst du?",
+      "opt0": "Flackernde Flammen, die in der Dunkelheit tanzen",
+      "opt1": "Ein endloser, tiefer Ozean bis zum Horizont",
+      "opt2": "Eine sonnendurchflutete Wiese voller Wildblumen",
+      "opt3": "Wirbelnde Galaxien und ferne Sterne"
+    },
+    "q2": {
+      "text": "Ein Fremder setzt sich neben dich und faengt an zu weinen. Was ist dein Instinkt?",
+      "opt0": "Ich fuehle den Schmerz tief und moechte troesten",
+      "opt1": "Ich analysiere die Situation, um praktische Hilfe anzubieten",
+      "opt2": "Ich versuche, die Stimmung mit Waerme und Humor aufzuhellen",
+      "opt3": "Ich respektiere den Raum, sende aber still gute Energie"
+    },
+    "q3": {
+      "text": "Welches Wetter spricht zu deiner Seele?",
+      "opt0": "Ein Gewitter -- roh, maechtig, elektrisch",
+      "opt1": "Sanfter Regen am Fenster -- beruhigend und nachdenklich",
+      "opt2": "Goldener Sonnenuntergang, der den Himmel in warme Toene taucht",
+      "opt3": "Morgendlicher Nebel -- geheimnisvoll und friedlich"
+    },
+    "q4": {
+      "text": "Wenn dein Leben ein Musikstueck waere, wie wuerde es klingen?",
+      "opt0": "Eine epische Orchestersymphonie -- grandios und leidenschaftlich",
+      "opt1": "Eine eindringliche Klaviermelodie -- tief und emotional",
+      "opt2": "Naturklaenge mit sanften Gloeckchen -- friedvoll",
+      "opt3": "Elektronische Ambient-Musik -- futuristisch und einzigartig"
+    },
+    "q5": {
+      "text": "Du findest eine alte, verschlossene Truhe. Was tust du?",
+      "opt0": "Sofort aufbrechen -- ich muss wissen, was drin ist",
+      "opt1": "Das Schloss studieren und methodisch den Schluessel suchen",
+      "opt2": "Sie festhalten und versuchen zu fuehlen, was drin ist",
+      "opt3": "Sie lassen. Manche Geheimnisse sollen verborgen bleiben"
+    },
+    "q6": {
+      "text": "Was raubt dir am meisten Energie?",
+      "opt0": "In der Routine festzustecken ohne Aufregung",
+      "opt1": "Oberflaechliche Gespraeche, die nie in die Tiefe gehen",
+      "opt2": "Konflikte und negative Umgebungen",
+      "opt3": "Gezwungen zu sein, mich anzupassen und zu verstecken, wer ich bin"
+    },
+    "q7": {
+      "text": "Du wachst mit einer Superkraft auf. Welche passt am besten zu dir?",
+      "opt0": "Andere durch Beruehrung heilen",
+      "opt1": "Gedanken lesen und die Wahrheit sehen",
+      "opt2": "Andere mit unerschuetterlichem Selbstvertrauen inspirieren",
+      "opt3": "Gestaltwandlung -- alles werden, was ich mir vorstelle"
+    },
+    "q8": {
+      "text": "Wie ist deine Beziehung zur Einsamkeit?",
+      "opt0": "Ich brauche sie -- Alleinsein ist, wenn ich auftanke",
+      "opt1": "Ich mag die Balance -- etwas allein, etwas gesellig",
+      "opt2": "Ich bevorzuge Gesellschaft, geniesse aber stille Reflexion",
+      "opt3": "Menschen geben mir Energie -- je mehr, desto besser"
+    },
+    "q9": {
+      "text": "Ein Traum wiederholt sich staendig. Wovon handelt er?",
+      "opt0": "Fliegen durch Nordlicht-Himmel ueber Bergen",
+      "opt1": "Eintauchen in ein leuchtendes Unterwasserkoenigreich",
+      "opt2": "Tanzen in einem Rosengarten unter Sternenlicht",
+      "opt3": "Am Rand eines Vulkans stehen, ohne Angst"
+    },
+    "q10": {
+      "text": "Waehle das Wort, das sich am meisten nach Zuhause anfuehlt:",
+      "opt0": "Leidenschaft",
+      "opt1": "Weisheit",
+      "opt2": "Harmonie",
+      "opt3": "Geheimnis"
+    }
+  },
+  "analyzing": {
+    "title": "Dein Energiefeld wird gelesen...",
+    "subtitle": "Deine Aura-Frequenzen werden abgestimmt"
+  },
+  "result": {
+    "your_aura": "DEINE AURAFARBE",
+    "strengths": "Deine Staerken",
+    "compatible": "Kompatible Auren",
+    "famous": "Beruehmtheiten mit deiner Aura",
+    "share": "Teile deine Aura",
+    "ruby": {
+      "name": "Rubinrot",
+      "tagline": "Der leidenschaftliche Anfuehrer",
+      "description": "Deine Aura brennt in Rubinrot -- die Farbe purer Leidenschaft, Mut und unaufhaltsamer Entschlossenheit. Du bist ein geborener Anfuehrer, der andere durch die Kraft deiner Persoenlichkeit inspiriert. Deine Energie ist magnetisch: Wenn du einen Raum betrittst, spueren es alle. Du lebst mutig, liebst intensiv und gibst dich mit nichts Geringerem als dem Aussergewoehnlichen zufrieden.",
+      "strength0": "Furchtlose Fuehrung",
+      "strength1": "Unzerbrechlicher Wille",
+      "strength2": "Tiefe Leidenschaft",
+      "strength3": "Ansteckende Energie",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Ozeanblau",
+      "tagline": "Der Tiefdenker",
+      "description": "Deine Aura strahlt Ozeanblau aus -- die Farbe unendlicher Tiefe, Weisheit und emotionaler Intelligenz. Wie der Ozean selbst hast du eine ruhige Oberflaeche, aber unglaubliche Tiefe darunter. Du durchschaust Fassaden und verstehst Menschen auf einer Ebene, die anderen verschlossen bleibt. Dein Verstand ist dein groesstes Gut, und deine Empathie reicht so tief wie das Meer.",
+      "strength0": "Tiefe Einsicht",
+      "strength1": "Analytischer Verstand",
+      "strength2": "Emotionale Tiefe",
+      "strength3": "Strategische Vision",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Goldgelb",
+      "tagline": "Der kreative Optimist",
+      "description": "Deine Aura leuchtet in Goldgelb -- die Farbe des Sonnenscheins, der Kreativitaet und grenzenlosen Optimismus. Du bist die Person, die jeden Raum erhellt und das Unmoegliche moeglich erscheinen laesst. Dein kreativer Geist sieht ueberall Schoenheit und Moeglichkeiten. Menschen werden von deiner Waerme angezogen wie Sonnenblumen, die sich dem Licht zuwenden.",
+      "strength0": "Strahlender Optimismus",
+      "strength1": "Kreatives Genie",
+      "strength2": "Natuerlicher Charme",
+      "strength3": "Inspirierende Vision",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Smaragdgruen",
+      "tagline": "Der natuerliche Heiler",
+      "description": "Deine Aura gluet in Smaragdgruen -- die Farbe der Heilung, des Wachstums und der tiefen Verbindung mit der Natur. Du besitzt eine seltene Gabe: die Faehigkeit, anderen das Gefuehl von Sicherheit, Gehoertsein und Erneuerung zu geben. Wie ein uralter Wald ist deine Gegenwart erdend und heilsam. Du heilst nicht nur durch Worte, sondern durch die reine Waerme deines Wesens.",
+      "strength0": "Heilende Praesenz",
+      "strength1": "Tiefe Empathie",
+      "strength2": "Wachstumsorientiertes Denken",
+      "strength3": "Natuerliches Gleichgewicht",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Violett-Lila",
+      "tagline": "Der spirituelle Mystiker",
+      "description": "Deine Aura pulsiert in Violett-Lila -- die Farbe des spirituellen Erwachens, der Intuition und des kosmischen Bewusstseins. Du existierst zwischen den Welten und nimmst Wahrheiten wahr, die andere uebersehen. Deine Intuition ist erstaunlich treffsicher, und du weisst oft Dinge, bevor sie geschehen. Du fuehlst dich zu den Mysterien des Daseins hingezogen und findest Sinn, wo andere nur Chaos sehen.",
+      "strength0": "Starke Intuition",
+      "strength1": "Spirituelle Weisheit",
+      "strength2": "Kosmisches Bewusstsein",
+      "strength3": "Kreative Tiefe",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Kristallweiss",
+      "tagline": "Der Reine und Ausgeglichene",
+      "description": "Deine Aura erstrahlt in Kristallweiss -- die Farbe der Klarheit, Reinheit und perfekten Balance. Du bist eine seltene Seele, die Harmonie in allen Dingen verkoerpert. Wie ein Kristallprisma nimmst du die Energien deiner Umgebung auf und verwandelst sie in etwas Wunderbares. Deine Klarheit des Ziels und innerer Frieden sind deine groessten Geschenke an die Welt.",
+      "strength0": "Kristallklare Klarheit",
+      "strength1": "Innere Balance",
+      "strength2": "Friedvolle Praesenz",
+      "strength3": "Reinigende Energie",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Nebelrosa",
+      "tagline": "Der romantische Traeumer",
+      "description": "Deine Aura wirbelt in Nebelrosa -- die Farbe romantischer Traeume, kuenstlerischer Schoenheit und zarter Liebe. Du erlebst die Welt durch eine Linse des Staunens und der Schoenheit, die die meisten Menschen nach der Kindheit verlieren. Deine Vorstellungskraft ist so weit wie ein Nebel und gebiert neue Sterne der Kreativitaet. Du liebst zutiefst, traeumst lebhaft und schaffst Schoenheit, wohin du auch gehst.",
+      "strength0": "Grenzenlose Vorstellungskraft",
+      "strength1": "Tiefe romantische Liebe",
+      "strength2": "Kuenstlerische Feinfuehligkeit",
+      "strength3": "Traeumerische Kreativitaet",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Obsidianschwarz",
+      "tagline": "Der unabhaengige Visionaer",
+      "description": "Deine Aura strahlt Obsidianschwarz aus -- die Farbe der Unabhaengigkeit, des Geheimnisses und visionaerer Kraft. Du gehst deinen eigenen Weg und weigerst dich, von anderen definiert zu werden. Wie Obsidian, der im Vulkanfeuer geschmiedet wurde, haben intensive Erfahrungen dich zu etwas Unzerbrechlichem geformt. Deine Tiefe und Komplexitaet faszinieren jene, die dein Vertrauen gewinnen, endlos.",
+      "strength0": "Wilde Unabhaengigkeit",
+      "strength1": "Schuetzende Kraft",
+      "strength2": "Geheimnisvolle Tiefe",
+      "strength3": "Visionaeres Denken",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "Meine Aurafarbe ist",
+    "cta": "Finde deine Aurafarbe heraus:"
+  },
+  "toast": {
+    "copied": "Link kopiert!"
+  },
+  "game": {
+    "back": "DopaBrain Startseite"
+  }
+}

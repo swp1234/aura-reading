@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Aura Reading - What Color Is Your Aura? | DopaBrain",
+    "description": "What color is your aura? Answer 10 dreamy questions to discover your energy color. 8 unique aura types with personality analysis. Share your result!",
+    "keywords": "aura test, aura color, energy reading, personality test, aura quiz, spiritual test",
+    "og_title": "What Color Is Your Aura? - 8 Aura Types",
+    "og_description": "Close your eyes and breathe. What color do you see? Take this 10-question quiz to discover your aura color!",
+    "twitter_title": "What Color Is Your Aura? - Aura Reading Quiz",
+    "twitter_description": "Discover your aura color with 10 dreamy questions!"
+  },
+  "app": {
+    "skipLink": "Skip to main content",
+    "loading": "Reading energies..."
+  },
+  "intro": {
+    "title": "What Color Is Your Aura?",
+    "subtitle": "Discover the energy that surrounds you",
+    "description": "Answer 10 dreamy questions to reveal your aura color.",
+    "description_2": "Uncover your hidden energy, strengths, and compatible auras!",
+    "time_estimate": "Takes about 2 minutes"
+  },
+  "aura": {
+    "ruby_short": "Ruby",
+    "ocean_short": "Ocean",
+    "golden_short": "Golden",
+    "emerald_short": "Emerald",
+    "violet_short": "Violet",
+    "crystal_short": "Crystal",
+    "nebula_short": "Nebula",
+    "obsidian_short": "Obsidian"
+  },
+  "button": {
+    "start": "Begin Aura Reading",
+    "back": "Back",
+    "retry": "Retake Quiz",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "quiz": {
+    "question_label": "QUESTION",
+    "q1": {
+      "text": "When you close your eyes and breathe deeply, what do you see?",
+      "opt0": "Flickering flames dancing in darkness",
+      "opt1": "Endless deep ocean stretching to the horizon",
+      "opt2": "A sunlit meadow full of wildflowers",
+      "opt3": "Swirling galaxies and distant stars"
+    },
+    "q2": {
+      "text": "A stranger sits next to you and starts crying. What is your instinct?",
+      "opt0": "I feel their pain deeply and want to comfort them",
+      "opt1": "I analyze the situation to offer practical help",
+      "opt2": "I try to brighten their mood with warmth and humor",
+      "opt3": "I respect their space but silently send good energy"
+    },
+    "q3": {
+      "text": "What kind of weather speaks to your soul?",
+      "opt0": "A thunderstorm -- raw, powerful, electric",
+      "opt1": "Gentle rain on a window -- calming and introspective",
+      "opt2": "Golden sunset painting the sky in warm hues",
+      "opt3": "Misty morning fog -- mysterious and serene"
+    },
+    "q4": {
+      "text": "If your life were a piece of music, what would it sound like?",
+      "opt0": "An epic orchestral symphony -- grand and passionate",
+      "opt1": "A haunting piano melody -- deep and emotional",
+      "opt2": "Nature sounds mixed with soft chimes -- peaceful",
+      "opt3": "Electronic ambient music -- futuristic and unique"
+    },
+    "q5": {
+      "text": "You find an ancient locked box. What do you do?",
+      "opt0": "Break it open immediately -- I need to know",
+      "opt1": "Study the lock, find the key methodically",
+      "opt2": "Hold it close and try to feel what is inside",
+      "opt3": "Leave it. Some secrets are meant to stay hidden"
+    },
+    "q6": {
+      "text": "What drains your energy the most?",
+      "opt0": "Being stuck in routine with no excitement",
+      "opt1": "Shallow conversations that never go deep",
+      "opt2": "Conflict and negative environments",
+      "opt3": "Being forced to conform and hide who I am"
+    },
+    "q7": {
+      "text": "You wake up with a superpower. Which one resonates most?",
+      "opt0": "Healing others with a touch",
+      "opt1": "Reading minds and seeing truth",
+      "opt2": "Inspiring others with unshakable confidence",
+      "opt3": "Shapeshifting -- becoming anything I imagine"
+    },
+    "q8": {
+      "text": "What is your relationship with solitude?",
+      "opt0": "I crave it -- alone time is when I recharge",
+      "opt1": "I like balance -- some alone, some social",
+      "opt2": "I prefer company but enjoy quiet reflection",
+      "opt3": "I am energized by people -- the more the better"
+    },
+    "q9": {
+      "text": "A dream keeps repeating. What is it about?",
+      "opt0": "Flying through aurora-lit skies over mountains",
+      "opt1": "Diving into a luminous underwater kingdom",
+      "opt2": "Dancing in a rose garden under starlight",
+      "opt3": "Standing at the edge of a volcano, unafraid"
+    },
+    "q10": {
+      "text": "Choose the word that feels most like home:",
+      "opt0": "Passion",
+      "opt1": "Wisdom",
+      "opt2": "Harmony",
+      "opt3": "Mystery"
+    }
+  },
+  "analyzing": {
+    "title": "Reading your energy field...",
+    "subtitle": "Aligning your aura frequencies"
+  },
+  "result": {
+    "your_aura": "YOUR AURA COLOR",
+    "strengths": "Your Strengths",
+    "compatible": "Compatible Auras",
+    "famous": "Famous People With Your Aura",
+    "share": "Share Your Aura",
+    "ruby": {
+      "name": "Ruby Red",
+      "tagline": "The Passionate Leader",
+      "description": "Your aura burns with Ruby Red -- the color of raw passion, courage, and unstoppable drive. You are a natural-born leader who inspires others through sheer force of personality. Your energy is magnetic: when you walk into a room, people feel it. You live boldly, love fiercely, and refuse to settle for anything less than extraordinary.",
+      "strength0": "Fearless Leadership",
+      "strength1": "Unbreakable Will",
+      "strength2": "Deep Passion",
+      "strength3": "Infectious Energy",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Ocean Blue",
+      "tagline": "The Deep Thinker",
+      "description": "Your aura radiates Ocean Blue -- the color of infinite depth, wisdom, and emotional intelligence. Like the ocean itself, you have calm surfaces but incredible depth beneath. You see through facades and understand people on a level that others cannot. Your mind is your greatest asset, and your empathy runs deep as the sea.",
+      "strength0": "Profound Insight",
+      "strength1": "Analytical Mind",
+      "strength2": "Emotional Depth",
+      "strength3": "Strategic Vision",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Golden Yellow",
+      "tagline": "The Creative Optimist",
+      "description": "Your aura shines with Golden Yellow -- the color of sunshine, creativity, and boundless optimism. You are the person who lights up every room and makes the impossible seem achievable. Your creative mind sees beauty and possibility everywhere. People are drawn to your warmth like sunflowers turning toward the sun.",
+      "strength0": "Radiant Optimism",
+      "strength1": "Creative Genius",
+      "strength2": "Natural Charm",
+      "strength3": "Inspiring Vision",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Emerald Green",
+      "tagline": "The Natural Healer",
+      "description": "Your aura glows with Emerald Green -- the color of healing, growth, and deep connection with nature. You possess a rare gift: the ability to make others feel safe, heard, and restored. Like an ancient forest, your presence is grounding and restorative. You heal not through words alone, but through the pure warmth of your being.",
+      "strength0": "Healing Presence",
+      "strength1": "Deep Empathy",
+      "strength2": "Growth Mindset",
+      "strength3": "Natural Balance",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Violet Purple",
+      "tagline": "The Spiritual Mystic",
+      "description": "Your aura pulses with Violet Purple -- the color of spiritual awakening, intuition, and cosmic consciousness. You exist between worlds, sensing truths that others overlook. Your intuition is uncannily accurate, and you often know things before they happen. You are drawn to the mysteries of existence and find meaning where others see chaos.",
+      "strength0": "Powerful Intuition",
+      "strength1": "Spiritual Wisdom",
+      "strength2": "Cosmic Awareness",
+      "strength3": "Creative Depth",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Crystal White",
+      "tagline": "The Pure & Balanced",
+      "description": "Your aura gleams with Crystal White -- the color of clarity, purity, and perfect balance. You are a rare soul who embodies harmony in all things. Like a crystal prism, you take in the energies around you and transform them into something beautiful. Your clarity of purpose and inner peace are your greatest gifts to the world.",
+      "strength0": "Crystal Clarity",
+      "strength1": "Inner Balance",
+      "strength2": "Peaceful Presence",
+      "strength3": "Purifying Energy",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Nebula Pink",
+      "tagline": "The Romantic Dreamer",
+      "description": "Your aura swirls with Nebula Pink -- the color of romantic dreams, artistic beauty, and tender love. You experience the world through a lens of wonder and beauty that most people lose after childhood. Your imagination is vast as a nebula, birthing new stars of creativity. You love deeply, dream vividly, and create beauty wherever you go.",
+      "strength0": "Boundless Imagination",
+      "strength1": "Deep Romantic Love",
+      "strength2": "Artistic Sensitivity",
+      "strength3": "Dreamy Creativity",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Obsidian Black",
+      "tagline": "The Independent Visionary",
+      "description": "Your aura emanates Obsidian Black -- the color of independence, mystery, and visionary power. You walk your own path and refuse to be defined by others. Like obsidian forged in volcanic fire, you have been shaped by intense experiences into something unbreakable. Your depth and complexity make you endlessly fascinating to those who earn your trust.",
+      "strength0": "Fierce Independence",
+      "strength1": "Protective Power",
+      "strength2": "Mysterious Depth",
+      "strength3": "Visionary Thinking",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "My aura color is",
+    "cta": "Find your aura color:"
+  },
+  "toast": {
+    "copied": "Link copied!"
+  },
+  "game": {
+    "back": "DopaBrain Home"
+  }
+}

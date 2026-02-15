@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Leitura de Aura - Qual a Cor da Sua Aura? | DopaBrain",
+    "description": "Qual a cor da sua aura? Responda 10 perguntas e descubra a cor da sua energia. 8 tipos de aura com analise de personalidade. Compartilhe seu resultado!",
+    "keywords": "teste de aura, cor da aura, leitura de energia, teste de personalidade, quiz de aura, teste espiritual",
+    "og_title": "Qual a Cor da Sua Aura? - 8 Tipos de Aura",
+    "og_description": "Feche os olhos e respire fundo. Que cor voce ve? Faca este quiz de 10 perguntas e descubra a cor da sua aura!",
+    "twitter_title": "Qual a Cor da Sua Aura? - Quiz de Leitura de Aura",
+    "twitter_description": "Descubra a cor da sua aura com 10 perguntas inspiradoras!"
+  },
+  "app": {
+    "skipLink": "Pular para o conteudo principal",
+    "loading": "Lendo suas energias..."
+  },
+  "intro": {
+    "title": "Qual a Cor da Sua Aura?",
+    "subtitle": "Descubra a energia que envolve voce",
+    "description": "Responda 10 perguntas para revelar a cor da sua aura.",
+    "description_2": "Descubra sua energia oculta, seus pontos fortes e auras compativeis!",
+    "time_estimate": "Leva cerca de 2 minutos"
+  },
+  "aura": {
+    "ruby_short": "Rubi",
+    "ocean_short": "Oceano",
+    "golden_short": "Dourado",
+    "emerald_short": "Esmeralda",
+    "violet_short": "Violeta",
+    "crystal_short": "Cristal",
+    "nebula_short": "Nebulosa",
+    "obsidian_short": "Obsidiana"
+  },
+  "button": {
+    "start": "Iniciar Leitura de Aura",
+    "back": "Voltar",
+    "retry": "Refazer o Quiz",
+    "share_whatsapp": "WhatsApp",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copiar Link"
+  },
+  "quiz": {
+    "question_label": "PERGUNTA",
+    "q1": {
+      "text": "Quando voce fecha os olhos e respira fundo, o que voce ve?",
+      "opt0": "Chamas dancando na escuridao",
+      "opt1": "Um oceano profundo e infinito ate o horizonte",
+      "opt2": "Um campo ensolarado cheio de flores silvestres",
+      "opt3": "Galaxias girando e estrelas distantes"
+    },
+    "q2": {
+      "text": "Um desconhecido senta ao seu lado e comeca a chorar. Qual e seu instinto?",
+      "opt0": "Sinto a dor profundamente e quero consola-lo",
+      "opt1": "Analiso a situacao para oferecer ajuda pratica",
+      "opt2": "Tento alegra-lo com calor humano e bom humor",
+      "opt3": "Respeito o espaco, mas envio boas energias em silencio"
+    },
+    "q3": {
+      "text": "Que tipo de clima fala com sua alma?",
+      "opt0": "Uma tempestade com raios -- intensa, poderosa, eletrizante",
+      "opt1": "Chuva suave na janela -- calmante e introspectiva",
+      "opt2": "Por do sol dourado pintando o ceu em tons quentes",
+      "opt3": "Neblina matinal -- misteriosa e serena"
+    },
+    "q4": {
+      "text": "Se sua vida fosse uma musica, como ela soaria?",
+      "opt0": "Uma sinfonia orquestral epica -- grandiosa e apaixonada",
+      "opt1": "Uma melodia de piano tocante -- profunda e emocional",
+      "opt2": "Sons da natureza com sinos suaves -- tranquila",
+      "opt3": "Musica eletronica ambiente -- futurista e unica"
+    },
+    "q5": {
+      "text": "Voce encontra uma caixa antiga trancada. O que voce faz?",
+      "opt0": "Abro na hora -- preciso saber o que tem dentro",
+      "opt1": "Estudo a fechadura e procuro a chave metodicamente",
+      "opt2": "Seguro perto de mim e tento sentir o que tem dentro",
+      "opt3": "Deixo como esta. Alguns segredos devem permanecer ocultos"
+    },
+    "q6": {
+      "text": "O que mais drena sua energia?",
+      "opt0": "Ficar preso na rotina sem emocao",
+      "opt1": "Conversas superficiais que nunca aprofundam",
+      "opt2": "Conflitos e ambientes negativos",
+      "opt3": "Ser obrigado a me encaixar e esconder quem eu sou"
+    },
+    "q7": {
+      "text": "Voce acorda com um superpoder. Qual combina mais com voce?",
+      "opt0": "Curar as pessoas com um toque",
+      "opt1": "Ler mentes e enxergar a verdade",
+      "opt2": "Inspirar outros com confianca inabalavel",
+      "opt3": "Metamorfose -- me transformar em qualquer coisa que eu imaginar"
+    },
+    "q8": {
+      "text": "Qual e sua relacao com a solidao?",
+      "opt0": "Preciso dela -- e quando eu recarrego minhas energias",
+      "opt1": "Gosto de equilibrio -- um pouco sozinho, um pouco social",
+      "opt2": "Prefiro companhia, mas aprecio momentos de reflexao",
+      "opt3": "Me energizo com pessoas -- quanto mais, melhor"
+    },
+    "q9": {
+      "text": "Um sonho se repete sempre. Sobre o que e?",
+      "opt0": "Voando por ceus iluminados por auroras sobre montanhas",
+      "opt1": "Mergulhando em um reino subaquatico luminoso",
+      "opt2": "Dancando em um jardim de rosas sob a luz das estrelas",
+      "opt3": "De pe na beira de um vulcao, sem medo"
+    },
+    "q10": {
+      "text": "Escolha a palavra que mais parece com o seu lar:",
+      "opt0": "Paixao",
+      "opt1": "Sabedoria",
+      "opt2": "Harmonia",
+      "opt3": "Misterio"
+    }
+  },
+  "analyzing": {
+    "title": "Lendo seu campo de energia...",
+    "subtitle": "Alinhando as frequencias da sua aura"
+  },
+  "result": {
+    "your_aura": "A COR DA SUA AURA",
+    "strengths": "Seus Pontos Fortes",
+    "compatible": "Auras Compativeis",
+    "famous": "Famosos com a Mesma Aura",
+    "share": "Compartilhe Sua Aura",
+    "ruby": {
+      "name": "Vermelho Rubi",
+      "tagline": "O Lider Apaixonado",
+      "description": "Sua aura arde em Vermelho Rubi -- a cor da paixao crua, da coragem e da determinacao imparavel. Voce e um lider nato que inspira os outros pela forca da sua personalidade. Sua energia e magnetica: quando voce entra em um ambiente, todos sentem. Voce vive com ousadia, ama com intensidade e se recusa a aceitar menos que o extraordinario.",
+      "strength0": "Lideranca Destemida",
+      "strength1": "Vontade Inquebrantavel",
+      "strength2": "Paixao Profunda",
+      "strength3": "Energia Contagiante",
+      "famous0": "Beyonce",
+      "famous1": "Elon Musk",
+      "famous2": "Frida Kahlo",
+      "famous3": "Muhammad Ali"
+    },
+    "ocean": {
+      "name": "Azul Oceano",
+      "tagline": "O Pensador Profundo",
+      "description": "Sua aura irradia Azul Oceano -- a cor da profundidade infinita, sabedoria e inteligencia emocional. Como o proprio oceano, voce tem uma superficie calma, mas uma profundidade incrivel por baixo. Voce enxerga alem das aparencias e compreende as pessoas em um nivel que outros nao conseguem. Sua mente e seu maior trunfo, e sua empatia e profunda como o mar.",
+      "strength0": "Visao Profunda",
+      "strength1": "Mente Analitica",
+      "strength2": "Profundidade Emocional",
+      "strength3": "Visao Estrategica",
+      "famous0": "Albert Einstein",
+      "famous1": "Adele",
+      "famous2": "Leonardo da Vinci",
+      "famous3": "Virginia Woolf"
+    },
+    "golden": {
+      "name": "Dourado Solar",
+      "tagline": "O Otimista Criativo",
+      "description": "Sua aura brilha em Dourado Solar -- a cor do sol, da criatividade e do otimismo sem limites. Voce e a pessoa que ilumina qualquer ambiente e faz o impossivel parecer possivel. Sua mente criativa ve beleza e possibilidades em tudo. As pessoas sao atraidas pelo seu calor como girassois que se voltam para o sol.",
+      "strength0": "Otimismo Radiante",
+      "strength1": "Genialidade Criativa",
+      "strength2": "Carisma Natural",
+      "strength3": "Visao Inspiradora",
+      "famous0": "BTS Jin",
+      "famous1": "Oprah Winfrey",
+      "famous2": "Robin Williams",
+      "famous3": "Frida Kahlo"
+    },
+    "emerald": {
+      "name": "Verde Esmeralda",
+      "tagline": "O Curador Natural",
+      "description": "Sua aura resplandece em Verde Esmeralda -- a cor da cura, do crescimento e da conexao profunda com a natureza. Voce possui um dom raro: a capacidade de fazer os outros se sentirem seguros, ouvidos e renovados. Como uma floresta ancestral, sua presenca e reconfortante e restauradora. Voce cura nao apenas com palavras, mas com o calor puro do seu ser.",
+      "strength0": "Presenca Curadora",
+      "strength1": "Empatia Profunda",
+      "strength2": "Mentalidade de Crescimento",
+      "strength3": "Equilibrio Natural",
+      "famous0": "Keanu Reeves",
+      "famous1": "Jane Goodall",
+      "famous2": "Bob Ross",
+      "famous3": "Dalai Lama"
+    },
+    "violet": {
+      "name": "Violeta Purpura",
+      "tagline": "O Mistico Espiritual",
+      "description": "Sua aura pulsa em Violeta Purpura -- a cor do despertar espiritual, da intuicao e da consciencia cosmica. Voce existe entre mundos, percebendo verdades que outros ignoram. Sua intuicao e incrivelmente precisa, e voce frequentemente sabe das coisas antes delas acontecerem. Voce e atraido pelos misterios da existencia e encontra significado onde outros veem caos.",
+      "strength0": "Intuicao Poderosa",
+      "strength1": "Sabedoria Espiritual",
+      "strength2": "Consciencia Cosmica",
+      "strength3": "Profundidade Criativa",
+      "famous0": "Nikola Tesla",
+      "famous1": "Lady Gaga",
+      "famous2": "Carl Jung",
+      "famous3": "Bjork"
+    },
+    "crystal": {
+      "name": "Branco Cristal",
+      "tagline": "O Puro e Equilibrado",
+      "description": "Sua aura reluz em Branco Cristal -- a cor da clareza, pureza e equilibrio perfeito. Voce e uma alma rara que personifica a harmonia em todas as coisas. Como um prisma de cristal, voce absorve as energias ao seu redor e as transforma em algo belo. Sua clareza de proposito e paz interior sao seus maiores presentes ao mundo.",
+      "strength0": "Clareza Cristalina",
+      "strength1": "Equilibrio Interior",
+      "strength2": "Presenca Pacifica",
+      "strength3": "Energia Purificadora",
+      "famous0": "Audrey Hepburn",
+      "famous1": "Gandhi",
+      "famous2": "Fred Rogers",
+      "famous3": "Hayao Miyazaki"
+    },
+    "nebula": {
+      "name": "Rosa Nebulosa",
+      "tagline": "O Sonhador Romantico",
+      "description": "Sua aura flutua em Rosa Nebulosa -- a cor dos sonhos romanticos, da beleza artistica e do amor terno. Voce experimenta o mundo atraves de uma lente de encantamento e beleza que a maioria das pessoas perde apos a infancia. Sua imaginacao e vasta como uma nebulosa, dando luz a novas estrelas de criatividade. Voce ama profundamente, sonha vividamente e cria beleza por onde passa.",
+      "strength0": "Imaginacao Sem Limites",
+      "strength1": "Amor Romantico Profundo",
+      "strength2": "Sensibilidade Artistica",
+      "strength3": "Criatividade Sonhadora",
+      "famous0": "Taylor Swift",
+      "famous1": "Studio Ghibli Characters",
+      "famous2": "Claude Monet",
+      "famous3": "BTS V"
+    },
+    "obsidian": {
+      "name": "Negro Obsidiana",
+      "tagline": "O Visionario Independente",
+      "description": "Sua aura emana Negro Obsidiana -- a cor da independencia, do misterio e do poder visionario. Voce trilha seu proprio caminho e se recusa a ser definido pelos outros. Como a obsidiana forjada no fogo vulcanico, voce foi moldado por experiencias intensas em algo inquebravel. Sua profundidade e complexidade fascinam infinitamente aqueles que conquistam sua confianca.",
+      "strength0": "Independencia Feroz",
+      "strength1": "Poder Protetor",
+      "strength2": "Profundidade Misteriosa",
+      "strength3": "Pensamento Visionario",
+      "famous0": "Zendaya",
+      "famous1": "Steve Jobs",
+      "famous2": "Billie Eilish",
+      "famous3": "Christopher Nolan"
+    }
+  },
+  "share": {
+    "text": "A cor da minha aura e",
+    "cta": "Descubra a cor da sua aura:"
+  },
+  "toast": {
+    "copied": "Link copiado!"
+  },
+  "game": {
+    "back": "Inicio DopaBrain"
+  }
+}
