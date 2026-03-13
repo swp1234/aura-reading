@@ -251,5 +251,18 @@
     "result2": "Goldene Aura -- Selbstbewusst & Magnetisch",
     "result3": "Smaragd Aura -- Heiler & Beschützer",
     "result4": "Rubin Aura -- Leidenschaftlich & Mutig"
+  },
+  "about": {
+    "whatIsTitle": "Was ist Aura-Reading?",
+    "whatIsDesc": "Die Aura ist das subtile Energiefeld, das jedes Lebewesen umgibt. Aura-Reading interpretiert diese Energieschwingungen, um Persoenlichkeitsmerkmale, emotionale Zustaende und spirituelle Tendenzen zu offenbaren.",
+    "whatIs1": "Jede Aurafarbe spiegelt einzigartige Persoenlichkeitsmerkmale wider",
+    "whatIs2": "Ihre dominante Aura kann sich mit persoenlichem Wachstum aendern",
+    "whatIs3": "Ergebnisse beinhalten Kompatibilitaetsanalyse mit anderen Aura-Typen",
+    "colorsTitle": "Aurafarben verstehen",
+    "colorsDesc": "Aurafarben sollen Ihre innere Energie und Ihren emotionalen Zustand widerspiegeln. Warme Farben deuten auf leidenschaftliche Energie hin, waehrend kuehle Toene ruhige Weisheit anzeigen.",
+    "colors1": "Warme Auren (Ruby, Golden): Leidenschaftlich, energiegeladen, fuehrungsorientiert",
+    "colors2": "Kuehle Auren (Ocean, Crystal): Weise, ruhig, analytisch, rein",
+    "colors3": "Spirituelle Auren (Violet, Nebula, Emerald): Intuitiv, empathisch, kreativ",
+    "colors4": "Dunkle Auren (Obsidian): Stark, unabhaengig, geheimnisvolle Tiefe"
   }
 }

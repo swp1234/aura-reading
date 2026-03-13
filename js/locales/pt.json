@@ -251,5 +251,18 @@
     "result2": "Aura Dourada -- Confiante e Magnética",
     "result3": "Aura Esmeralda -- Curadora e Protetora",
     "result4": "Aura Rubi -- Apaixonada e Ousada"
+  },
+  "about": {
+    "whatIsTitle": "O que e leitura de aura?",
+    "whatIsDesc": "A aura e o campo de energia sutil que envolve todo ser vivo. A leitura de aura interpreta essas vibracoes energeticas para revelar tracos de personalidade, estados emocionais e tendencias espirituais.",
+    "whatIs1": "Cada cor de aura reflete caracteristicas de personalidade unicas",
+    "whatIs2": "Sua aura dominante pode mudar com o crescimento pessoal",
+    "whatIs3": "Os resultados incluem analise de compatibilidade com outros tipos de aura",
+    "colorsTitle": "Entendendo as cores da aura",
+    "colorsDesc": "Acredita-se que as cores da aura refletem sua energia interior e estado emocional. Cores quentes sugerem energia apaixonada e criativa, enquanto tons frios indicam sabedoria calma e clareza.",
+    "colors1": "Auras quentes (Rubi, Dourado): Apaixonadas, energeticas, orientadas a lideranca",
+    "colors2": "Auras frias (Oceano, Cristal): Sabias, calmas, analiticas, puras",
+    "colors3": "Auras espirituais (Violeta, Nebula, Esmeralda): Intuitivas, empaticas, criativas",
+    "colors4": "Auras escuras (Obsidiana): Fortes, independentes, profundidade misteriosa"
   }
 }

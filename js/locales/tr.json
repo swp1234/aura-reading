@@ -251,5 +251,18 @@
     "result2": "Altın Aura -- Kendine Güvenen ve Çekici",
     "result3": "Zümrüt Aura -- Şifacı ve Bakıcı",
     "result4": "Yakut Aura -- Tutkulu ve Cesur"
+  },
+  "about": {
+    "whatIsTitle": "Aura Okuma Nedir?",
+    "whatIsDesc": "Aura, her canli varligin etrafini saran ince enerji alanidir. Aura okuma, bu enerji titresimlerini yorumlayarak kisilik ozelliklerini, duygusal durumlari ve ruhani egilimleri ortaya cikarir.",
+    "whatIs1": "Her aura rengi benzersiz kisilik ozelliklerini yansitir",
+    "whatIs2": "Baskin auraniz kisisel gelisim ve yasam deneyimleriyle degisebilir",
+    "whatIs3": "Sonuclar diger aura turleriyle uyumluluk analizini icerir",
+    "colorsTitle": "Aura Renklerini Anlamak",
+    "colorsDesc": "Aura renklerinin ic enerjinizi ve duygusal durumunuzu yansittigina inanilir. Sicak renkler tutkulu, yaratici enerjiyi, soguk tonlar ise sakin bilgeligi ve netligi gosterir.",
+    "colors1": "Sicak auralar (Ruby, Golden): Tutkulu, enerjik, liderlik odakli",
+    "colors2": "Soguk auralar (Ocean, Crystal): Bilge, sakin, analitik, saf",
+    "colors3": "Ruhani auralar (Violet, Nebula, Emerald): Sezgisel, empatik, yaratici",
+    "colors4": "Karanlik auralar (Obsidian): Guclu, bagimsiz, gizemli derinlik"
   }
 }
