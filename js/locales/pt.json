@@ -243,5 +243,13 @@
   },
   "game": {
     "back": "Inicio DopaBrain"
+  },
+  "engage": {
+    "cta": "Descubra sua aura agora",
+    "proof": "pessoas descobriram sua aura",
+    "result1": "Aura Roxa -- Intuitiva e Espiritual",
+    "result2": "Aura Dourada -- Confiante e Magnética",
+    "result3": "Aura Esmeralda -- Curadora e Protetora",
+    "result4": "Aura Rubi -- Apaixonada e Ousada"
   }
 }

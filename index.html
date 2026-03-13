@@ -48,6 +48,7 @@
         "name": "Aura Reading - What Color Is Your Aura?",
         "description": "Discover your aura color with this 10-question personality quiz. 8 unique aura types with detailed personality analysis.",
         "url": "https://dopabrain.com/aura-reading/",
+        "image": "https://dopabrain.com/aura-reading/og-image.png",
         "about": {
             "@type": "Thing",
             "name": "Personality Quiz"
@@ -84,7 +85,21 @@
     }
 }
     </script>
-    <!-- FAQPage Schema -->
+    <!-- BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dopabrain.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Tests", "item": "https://dopabrain.com/portal/" },
+            { "@type": "ListItem", "position": 3, "name": "Spiritual Tests", "item": "https://dopabrain.com/portal/" },
+            { "@type": "ListItem", "position": 4, "name": "Aura Reading", "item": "https://dopabrain.com/aura-reading/" }
+        ]
+    }
+    </script>
+
+    <!-- FAQPage -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -92,26 +107,42 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is an aura color?",
+                "name": "What is aura reading?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "An aura color represents the energy field surrounding a person. It reflects personality traits, emotional state, and spiritual energy. This quiz analyzes your responses to determine your dominant aura color."
+                    "text": "Aura reading is the practice of interpreting the energy field that surrounds a person. Each aura color reflects personality traits, emotional states, and spiritual energy. This free quiz uses 10 personality-based questions to reveal your dominant aura color from 8 unique types."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How accurate is this aura reading?",
+                "name": "What do aura colors mean?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "This quiz is designed for entertainment and self-reflection. It uses personality-based questions to suggest an aura color that resonates with your character traits and preferences."
+                    "text": "Each aura color carries a unique meaning: Ruby represents passion and leadership, Ocean reflects wisdom and depth, Golden symbolizes optimism and creativity, Emerald indicates healing and empathy, Violet suggests intuition and spirituality, Crystal means clarity and purity, Nebula represents imagination and romance, and Obsidian embodies strength and independence."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Can my aura color change?",
+                "name": "Is the aura reading test accurate?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes! Your aura can shift over time as you grow, experience new things, and evolve emotionally and spiritually. Retake the quiz periodically to see how your energy evolves."
+                    "text": "This quiz is designed for entertainment and self-reflection. It uses personality-based questions to suggest an aura color that resonates with your character traits and preferences. For deeper spiritual guidance, consider consulting a professional energy healer."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How does the aura reading work?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The test asks 10 questions about your personality, preferences, and instincts. Your answers are scored across 8 aura types. The dominant color is determined by which energy pattern matches your responses most closely, with compatibility and trait analysis included."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can my aura color change over time?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! Your aura can shift as you grow, experience new things, and evolve emotionally and spiritually. Major life events, personal growth, and changes in mindset can all influence your dominant aura color. Retake the quiz periodically to see how your energy evolves."
                 }
             }
         ]
@@ -528,6 +559,74 @@
             font-size: 13px;
             color: var(--text-secondary);
             margin-top: 12px;
+        }
+
+        /* ===== ENGAGEMENT: Result Preview Carousel ===== */
+        .result-carousel {
+            position: relative;
+            overflow: hidden;
+            height: 56px;
+            margin: 20px auto 0;
+            max-width: 340px;
+            border-radius: var(--radius);
+            background: var(--bg-glass);
+            border: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        .carousel-track {
+            display: flex;
+            flex-direction: column;
+            animation: carouselScroll 12s ease-in-out infinite;
+        }
+        .carousel-item {
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text);
+            padding: 0 16px;
+            white-space: nowrap;
+        }
+        @keyframes carouselScroll {
+            0%, 20% { transform: translateY(0); }
+            25%, 45% { transform: translateY(-56px); }
+            50%, 70% { transform: translateY(-112px); }
+            75%, 95% { transform: translateY(-168px); }
+            100% { transform: translateY(0); }
+        }
+
+        /* ===== ENGAGEMENT: Social Proof Badge ===== */
+        .social-proof-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(135deg, rgba(124, 58, 237, 0.2), rgba(236, 72, 153, 0.15));
+            border: 1px solid rgba(124, 58, 237, 0.3);
+            border-radius: 50px;
+            padding: 12px 24px;
+            margin: 24px auto 0;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            animation: badgePulse 3s ease-in-out infinite;
+        }
+        .social-proof-badge .badge-count {
+            font-size: 20px;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary-light), var(--aura-nebula-light));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .social-proof-badge .badge-label {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+        @keyframes badgePulse {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(124, 58, 237, 0.2); }
+            50% { box-shadow: 0 0 0 8px rgba(124, 58, 237, 0); }
         }
 
         /* ===== QUIZ SCREEN ===== */
@@ -1125,7 +1224,23 @@
                     <span class="aura-badge" style="background: linear-gradient(135deg, #1f2937, #4b5563);" data-i18n="aura.obsidian_short">Obsidian</span>
                 </div>
 
-                <button id="start-btn" class="btn btn-primary" data-i18n="button.start">Begin Aura Reading</button>
+                <!-- Result Preview Carousel -->
+                <div class="result-carousel" aria-live="polite">
+                    <div class="carousel-track">
+                        <div class="carousel-item" data-i18n="engage.result1">Purple Aura -- Intuitive & Spiritual</div>
+                        <div class="carousel-item" data-i18n="engage.result2">Golden Aura -- Confident & Magnetic</div>
+                        <div class="carousel-item" data-i18n="engage.result3">Emerald Aura -- Healer & Nurturer</div>
+                        <div class="carousel-item" data-i18n="engage.result4">Ruby Aura -- Passionate & Bold</div>
+                    </div>
+                </div>
+
+                <!-- Social Proof Badge -->
+                <div class="social-proof-badge">
+                    <span class="badge-count">127,000+</span>
+                    <span class="badge-label" data-i18n="engage.proof">readers discovered their aura</span>
+                </div>
+
+                <button id="start-btn" class="btn btn-primary" data-i18n="engage.cta">Discover Your Aura Now</button>
                 <p class="time-estimate" data-i18n="intro.time_estimate">Takes about 2 minutes</p>
             </div>
         </div>
@@ -1272,6 +1387,33 @@
 
     <!-- Toast notification -->
     <div id="toast" class="toast" data-i18n="toast.copied">Link copied!</div>
+
+    <!-- About Section (SEO) -->
+    <section class="seo-content-section" id="about-aura" style="max-width:520px;margin:24px auto;padding:0 16px;">
+        <details class="seo-details" style="background:var(--bg-glass);border:1px solid var(--border);border-radius:var(--radius);margin-bottom:12px;overflow:hidden;">
+            <summary style="padding:16px 20px;cursor:pointer;font-weight:700;font-size:15px;color:var(--text);list-style:none;display:flex;justify-content:space-between;align-items:center;" data-i18n="about.whatIsTitle">What Is Aura Reading?</summary>
+            <div style="padding:0 20px 16px;font-size:14px;line-height:1.7;color:var(--text-secondary);">
+                <p data-i18n="about.whatIsDesc">An aura is the subtle energy field that surrounds every living being. Aura reading interprets these energy vibrations to reveal personality traits, emotional states, and spiritual tendencies. This free quiz analyzes your responses across 10 questions to determine your dominant aura color from 8 unique types: Ruby, Ocean, Golden, Emerald, Violet, Crystal, Nebula, and Obsidian.</p>
+                <ul style="margin-top:8px;padding-left:20px;">
+                    <li data-i18n="about.whatIs1">Each aura color reflects unique personality characteristics</li>
+                    <li data-i18n="about.whatIs2">Your dominant aura can shift with personal growth and life experiences</li>
+                    <li data-i18n="about.whatIs3">Results include compatibility analysis with other aura types</li>
+                </ul>
+            </div>
+        </details>
+        <details class="seo-details" style="background:var(--bg-glass);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;">
+            <summary style="padding:16px 20px;cursor:pointer;font-weight:700;font-size:15px;color:var(--text);list-style:none;display:flex;justify-content:space-between;align-items:center;" data-i18n="about.colorsTitle">Understanding Aura Colors</summary>
+            <div style="padding:0 20px 16px;font-size:14px;line-height:1.7;color:var(--text-secondary);">
+                <p data-i18n="about.colorsDesc">Aura colors are believed to reflect your inner energy and emotional state. Warm colors like Ruby and Golden suggest passionate, creative energy, while cool tones like Ocean and Crystal indicate calm wisdom and clarity. Spiritual colors such as Violet and Nebula point to deep intuition and imagination. Understanding your aura color can help with self-awareness, relationship compatibility, and personal growth.</p>
+                <ul style="margin-top:8px;padding-left:20px;">
+                    <li data-i18n="about.colors1">Warm auras (Ruby, Golden): Passionate, energetic, leadership-oriented</li>
+                    <li data-i18n="about.colors2">Cool auras (Ocean, Crystal): Wise, calm, analytical, pure</li>
+                    <li data-i18n="about.colors3">Spiritual auras (Violet, Nebula, Emerald): Intuitive, empathetic, creative</li>
+                    <li data-i18n="about.colors4">Dark auras (Obsidian): Strong, independent, mysterious depth</li>
+                </ul>
+            </div>
+        </details>
+    </section>
 
     <!-- Footer -->
     <footer class="game-footer">

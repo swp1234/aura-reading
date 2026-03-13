@@ -243,5 +243,13 @@
   },
   "game": {
     "back": "DopaBrain Ana Sayfa"
+  },
+  "engage": {
+    "cta": "Şimdi auranı keşfet",
+    "proof": "kişi aurasını keşfetti",
+    "result1": "Mor Aura -- Sezgisel ve Ruhani",
+    "result2": "Altın Aura -- Kendine Güvenen ve Çekici",
+    "result3": "Zümrüt Aura -- Şifacı ve Bakıcı",
+    "result4": "Yakut Aura -- Tutkulu ve Cesur"
   }
 }

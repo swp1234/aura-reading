@@ -243,5 +243,13 @@
   },
   "game": {
     "back": "Beranda DopaBrain"
+  },
+  "engage": {
+    "cta": "Temukan auramu sekarang",
+    "proof": "orang telah menemukan aura mereka",
+    "result1": "Aura Ungu -- Intuitif & Spiritual",
+    "result2": "Aura Emas -- Percaya Diri & Magnetis",
+    "result3": "Aura Zamrud -- Penyembuh & Pengasuh",
+    "result4": "Aura Ruby -- Penuh Gairah & Berani"
   }
 }

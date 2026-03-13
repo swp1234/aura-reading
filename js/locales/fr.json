@@ -243,5 +243,13 @@
   },
   "game": {
     "back": "Accueil DopaBrain"
+  },
+  "engage": {
+    "cta": "Découvrez votre aura maintenant",
+    "proof": "personnes ont découvert leur aura",
+    "result1": "Aura Violette -- Intuitive et Spirituelle",
+    "result2": "Aura Dorée -- Confiante et Magnétique",
+    "result3": "Aura Émeraude -- Guérisseuse et Protectrice",
+    "result4": "Aura Rubis -- Passionnée et Audacieuse"
   }
 }

@@ -243,5 +243,13 @@
   },
   "game": {
     "back": "DopaBrain Home"
+  },
+  "engage": {
+    "cta": "Entdecke deine Aura jetzt",
+    "proof": "Personen haben ihre Aura entdeckt",
+    "result1": "Lila Aura -- Intuitiv & Spirituell",
+    "result2": "Goldene Aura -- Selbstbewusst & Magnetisch",
+    "result3": "Smaragd Aura -- Heiler & Beschützer",
+    "result4": "Rubin Aura -- Leidenschaftlich & Mutig"
   }
 }

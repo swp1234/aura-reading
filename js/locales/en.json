@@ -243,5 +243,26 @@
   },
   "game": {
     "back": "DopaBrain Home"
+  },
+  "engage": {
+    "cta": "Discover Your Aura Now",
+    "proof": "readers discovered their aura",
+    "result1": "Purple Aura -- Intuitive & Spiritual",
+    "result2": "Golden Aura -- Confident & Magnetic",
+    "result3": "Emerald Aura -- Healer & Nurturer",
+    "result4": "Ruby Aura -- Passionate & Bold"
+  },
+  "about": {
+    "whatIsTitle": "What Is Aura Reading?",
+    "whatIsDesc": "An aura is the subtle energy field that surrounds every living being. Aura reading interprets these energy vibrations to reveal personality traits, emotional states, and spiritual tendencies. This free quiz analyzes your responses across 10 questions to determine your dominant aura color from 8 unique types: Ruby, Ocean, Golden, Emerald, Violet, Crystal, Nebula, and Obsidian.",
+    "whatIs1": "Each aura color reflects unique personality characteristics",
+    "whatIs2": "Your dominant aura can shift with personal growth and life experiences",
+    "whatIs3": "Results include compatibility analysis with other aura types",
+    "colorsTitle": "Understanding Aura Colors",
+    "colorsDesc": "Aura colors are believed to reflect your inner energy and emotional state. Warm colors like Ruby and Golden suggest passionate, creative energy, while cool tones like Ocean and Crystal indicate calm wisdom and clarity. Spiritual colors such as Violet and Nebula point to deep intuition and imagination. Understanding your aura color can help with self-awareness, relationship compatibility, and personal growth.",
+    "colors1": "Warm auras (Ruby, Golden): Passionate, energetic, leadership-oriented",
+    "colors2": "Cool auras (Ocean, Crystal): Wise, calm, analytical, pure",
+    "colors3": "Spiritual auras (Violet, Nebula, Emerald): Intuitive, empathetic, creative",
+    "colors4": "Dark auras (Obsidian): Strong, independent, mysterious depth"
   }
 }
