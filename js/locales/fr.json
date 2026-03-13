@@ -121,6 +121,8 @@
     "compatible": "Auras Compatibles",
     "famous": "Personnalités Célèbres Avec Votre Aura",
     "share": "Partagez Votre Aura",
+    "moreTests": "Decouvrez d'autres tests",
+    "percentileStat": "Seulement <strong>{percent}%</strong> des participants partagent votre type d'energie d'aura",
     "ruby": {
       "name": "Rouge Rubis",
       "tagline": "Le Leader Passionné",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Score d'Aura",
+    "colorPersonality": "Personnalite des Couleurs",
+    "soulAge": "Age de l'Ame",
+    "numerology": "Numerologie"
   },
   "share": {
     "text": "Ma couleur d'aura est",

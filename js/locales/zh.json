@@ -121,6 +121,8 @@
     "compatible": "相合的气场",
     "famous": "与你气场相同的名人",
     "share": "分享你的气场",
+    "moreTests": "探索更多测试",
+    "percentileStat": "仅有 <strong>{percent}%</strong> 的参与者拥有与你相同的气场能量类型",
     "ruby": {
       "name": "宝石红",
       "tagline": "热情的领袖",
@@ -225,6 +227,12 @@
       "famous2": "比莉·艾利什",
       "famous3": "克里斯托弗·诺兰"
     }
+  },
+  "related": {
+    "auraScore": "气场分数",
+    "colorPersonality": "色彩性格",
+    "soulAge": "灵魂年龄",
+    "numerology": "数字命理"
   },
   "share": {
     "text": "我的气场颜色是",

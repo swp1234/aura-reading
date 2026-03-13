@@ -121,6 +121,8 @@
     "compatible": "Kompatible Auren",
     "famous": "Berühmte Personen mit deiner Aura",
     "share": "Teile deine Aura",
+    "moreTests": "Weitere Tests entdecken",
+    "percentileStat": "Nur <strong>{percent}%</strong> der Teilnehmer teilen deinen Aura-Energietyp",
     "ruby": {
       "name": "Rubinrot",
       "tagline": "Der Leidenschaftliche Anführer",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Aura-Punktzahl",
+    "colorPersonality": "Farbpersonlichkeit",
+    "soulAge": "Seelenalter",
+    "numerology": "Numerologie"
   },
   "share": {
     "text": "Meine Aurafarbe ist",

@@ -121,6 +121,8 @@
     "compatible": "Auras Compativeis",
     "famous": "Famosos com a Mesma Aura",
     "share": "Compartilhe Sua Aura",
+    "moreTests": "Explore Mais Testes",
+    "percentileStat": "Apenas <strong>{percent}%</strong> dos participantes compartilham seu tipo de energia de aura",
     "ruby": {
       "name": "Vermelho Rubi",
       "tagline": "O Lider Apaixonado",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Pontuacao de Aura",
+    "colorPersonality": "Personalidade da Cor",
+    "soulAge": "Idade da Alma",
+    "numerology": "Numerologia"
   },
   "share": {
     "text": "A cor da minha aura e",

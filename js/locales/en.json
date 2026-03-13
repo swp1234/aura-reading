@@ -121,6 +121,8 @@
     "compatible": "Compatible Auras",
     "famous": "Famous People With Your Aura",
     "share": "Share Your Aura",
+    "moreTests": "Explore More Tests",
+    "percentileStat": "Only <strong>{percent}%</strong> of participants share your aura energy type",
     "ruby": {
       "name": "Ruby Red",
       "tagline": "The Passionate Leader",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Aura Score",
+    "colorPersonality": "Color Personality",
+    "soulAge": "Soul Age",
+    "numerology": "Numerology"
   },
   "share": {
     "text": "My aura color is",

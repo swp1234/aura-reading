@@ -121,6 +121,8 @@
     "compatible": "相性の良いオーラ",
     "famous": "あなたと同じオーラの有名人",
     "share": "あなたのオーラをシェア",
+    "moreTests": "他のテストも試す",
+    "percentileStat": "参加者のうち <strong>{percent}%</strong> だけがあなたと同じオーラエネルギータイプです",
     "ruby": {
       "name": "ルビーレッド",
       "tagline": "情熱のリーダー",
@@ -225,6 +227,12 @@
       "famous2": "ビリー・アイリッシュ",
       "famous3": "クリストファー・ノーラン"
     }
+  },
+  "related": {
+    "auraScore": "オーラスコア",
+    "colorPersonality": "カラー性格診断",
+    "soulAge": "魂の年齢",
+    "numerology": "数秘術"
   },
   "share": {
     "text": "私のオーラカラーは",

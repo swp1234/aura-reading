@@ -121,6 +121,8 @@
     "compatible": "संगत ऑरा",
     "famous": "आपके ऑरा वाले प्रसिद्ध लोग",
     "share": "अपना ऑरा शेयर करें",
+    "moreTests": "और टेस्ट देखें",
+    "percentileStat": "केवल <strong>{percent}%</strong> प्रतिभागियों का ऑरा ऊर्जा प्रकार आपसे मिलता है",
     "ruby": {
       "name": "रूबी रेड",
       "tagline": "जुनूनी नेता",
@@ -225,6 +227,12 @@
       "famous2": "बिली आइलिश",
       "famous3": "क्रिस्टोफर नोलन"
     }
+  },
+  "related": {
+    "auraScore": "ऑरा स्कोर",
+    "colorPersonality": "रंग व्यक्तित्व",
+    "soulAge": "आत्मा की आयु",
+    "numerology": "अंक ज्योतिष"
   },
   "share": {
     "text": "मेरे ऑरा का रंग है",

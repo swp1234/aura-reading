@@ -121,6 +121,8 @@
     "compatible": "Aura yang Cocok",
     "famous": "Tokoh Terkenal dengan Aura yang Sama",
     "share": "Bagikan Auramu",
+    "moreTests": "Jelajahi Tes Lainnya",
+    "percentileStat": "Hanya <strong>{percent}%</strong> peserta yang memiliki tipe energi aura yang sama denganmu",
     "ruby": {
       "name": "Merah Rubi",
       "tagline": "Sang Pemimpin Penuh Gairah",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Skor Aura",
+    "colorPersonality": "Kepribadian Warna",
+    "soulAge": "Usia Jiwa",
+    "numerology": "Numerologi"
   },
   "share": {
     "text": "Warna auraku adalah",

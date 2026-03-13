@@ -121,6 +121,8 @@
     "compatible": "Uyumlu Auralar",
     "famous": "Ayni Auraya Sahip Unluler",
     "share": "Aurani Paylas",
+    "moreTests": "Daha Fazla Test Kesfet",
+    "percentileStat": "Katilimcilarin yalnizca <strong>{percent}%</strong>'i senin aura enerji turune sahip",
     "ruby": {
       "name": "Yakut Kirmizisi",
       "tagline": "Tutkulu Lider",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Aura Puani",
+    "colorPersonality": "Renk Kisiligi",
+    "soulAge": "Ruh Yasi",
+    "numerology": "Numeroloji"
   },
   "share": {
     "text": "Benim aura rengim",

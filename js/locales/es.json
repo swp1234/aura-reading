@@ -121,6 +121,8 @@
     "compatible": "Auras compatibles",
     "famous": "Famosos con tu misma aura",
     "share": "Comparte tu aura",
+    "moreTests": "Explora mas tests",
+    "percentileStat": "Solo el <strong>{percent}%</strong> de los participantes comparte tu tipo de energia de aura",
     "ruby": {
       "name": "Rojo Rubí",
       "tagline": "El líder apasionado",
@@ -225,6 +227,12 @@
       "famous2": "Billie Eilish",
       "famous3": "Christopher Nolan"
     }
+  },
+  "related": {
+    "auraScore": "Puntuacion de Aura",
+    "colorPersonality": "Personalidad del Color",
+    "soulAge": "Edad del Alma",
+    "numerology": "Numerologia"
   },
   "share": {
     "text": "Mi color de aura es",

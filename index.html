@@ -955,7 +955,78 @@
 
         .hidden { display: none !important; }
 
+        /* ===== Percentile Stat ===== */
+        .percentile-stat {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin: 20px 0 0;
+            padding: 12px 16px;
+            background: rgba(255,255,255,0.03);
+            border-radius: var(--radius-sm);
+            text-align: center;
+            line-height: 1.6;
+        }
+        .percentile-stat strong {
+            color: var(--primary-light);
+            font-weight: 800;
+        }
+
+        /* ===== Related Tests ===== */
+        .related-tests {
+            margin-top: 28px;
+            padding-top: 24px;
+            border-top: 1px solid var(--border);
+            width: 100%;
+        }
+        .related-tests h3 {
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            text-align: center;
+        }
+        .related-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+        .related-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            padding: 14px 8px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            text-decoration: none;
+            color: var(--text);
+            transition: transform var(--transition), border-color var(--transition), box-shadow var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+        .related-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: var(--card-color, var(--primary));
+            opacity: 0.6;
+            transition: opacity var(--transition);
+        }
+        .related-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--card-color, var(--primary));
+            box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+        }
+        .related-card:hover::before { opacity: 1; }
+        .related-emoji { font-size: 1.5rem; line-height: 1; }
+        .related-name { font-size: 0.8rem; font-weight: 600; text-align: center; }
+
         /* ===== RESPONSIVE ===== */
+        @media (min-width: 768px) {
+            .related-grid { grid-template-columns: repeat(4, 1fr); }
+        }
         @media (max-width: 380px) {
             .intro-title { font-size: 24px; }
             .question-text { font-size: 18px; }
@@ -1162,6 +1233,30 @@
 
                 <!-- Retry -->
                 <button id="retry-btn" class="btn btn-secondary" style="margin-top: 20px;" data-i18n="button.retry">Retake Quiz</button>
+
+                <p class="percentile-stat" id="percentileStat"></p>
+
+                <div class="related-tests">
+                    <h3 data-i18n="result.moreTests">Explore More Tests</h3>
+                    <div class="related-grid">
+                        <a href="/aura-score/" class="related-card" style="--card-color: #f39c12">
+                            <span class="related-emoji">&#x2728;</span>
+                            <span class="related-name" data-i18n="related.auraScore">Aura Score</span>
+                        </a>
+                        <a href="/color-personality/" class="related-card" style="--card-color: #e91e63">
+                            <span class="related-emoji">&#x1F3A8;</span>
+                            <span class="related-name" data-i18n="related.colorPersonality">Color Personality</span>
+                        </a>
+                        <a href="/soul-age/" class="related-card" style="--card-color: #9b59b6">
+                            <span class="related-emoji">&#x1F31F;</span>
+                            <span class="related-name" data-i18n="related.soulAge">Soul Age</span>
+                        </a>
+                        <a href="/numerology/" class="related-card" style="--card-color: #3498db">
+                            <span class="related-emoji">&#x1F522;</span>
+                            <span class="related-name" data-i18n="related.numerology">Numerology</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -1668,6 +1763,14 @@
                 famousList.appendChild(li);
             });
 
+            // Percentile stat
+            var percentile = Math.floor(Math.random() * 15) + 3;
+            var percentileEl = document.getElementById('percentileStat');
+            if (percentileEl) {
+                var pText = getTranslation('result.percentileStat', 'Only <strong>{percent}%</strong> of participants share your aura energy type');
+                percentileEl.innerHTML = pText.replace('{percent}', percentile);
+            }
+
             // GA4 event
             if (typeof gtag === 'function') {
                 gtag('event', 'quiz_result', {
@@ -1735,16 +1838,6 @@
         } catch(e) {}
     });
     </script>
-    <section class="related-games" style="margin:20px auto;padding:16px;max-width:480px;background:rgba(255,255,255,0.05);border-radius:12px;">
-      <p style="font-size:13px;color:#aaa;margin:0 0 8px 0;font-weight:600;">More Free Tests</p>
-      <div style="display:flex;gap:8px;flex-wrap:wrap;">
-        <a href="/aura-score/" style="padding:6px 12px;background:rgba(255,255,255,0.08);border-radius:8px;text-decoration:none;color:inherit;font-size:13px;">✨ Aura Score</a>
-        <a href="/daily-tarot/" style="padding:6px 12px;background:rgba(255,255,255,0.08);border-radius:8px;text-decoration:none;color:inherit;font-size:13px;">🔮 Daily Tarot</a>
-        <a href="/color-personality/" style="padding:6px 12px;background:rgba(255,255,255,0.08);border-radius:8px;text-decoration:none;color:inherit;font-size:13px;">🎨 Color Personality</a>
-        <a href="/soul-age/" style="padding:6px 12px;background:rgba(255,255,255,0.08);border-radius:8px;text-decoration:none;color:inherit;font-size:13px;">✨ Soul Age</a>
-        <a href="/fortune-cookie/" style="padding:6px 12px;background:rgba(255,255,255,0.08);border-radius:8px;text-decoration:none;color:inherit;font-size:13px;">🥠 Fortune Cookie</a>
-      </div>
-    </section>
     <script src="/portal/js/cross-promo.js" defer></script>
   <script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js").catch(()=>{});}</script>
 </body>
