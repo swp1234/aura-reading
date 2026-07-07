@@ -6,15 +6,24 @@
             this.translations = {};
             this.supportedLanguages = ['ko', 'en', 'ja', 'zh', 'es', 'pt', 'id', 'tr', 'de', 'fr', 'hi', 'ru'];
             this.currentLang = this.detectLanguage();
+            document.documentElement.lang = this.currentLang;
             this.isLoading = false;
         };
 
         I18n.prototype.detectLanguage = function() {
-            // Check localStorage
-            var saved = localStorage.getItem('preferredLanguage');
-            if (saved && this.supportedLanguages.indexOf(saved) !== -1) {
-                return saved;
-            }
+            try {
+                var params = new URLSearchParams(window.location.search);
+                var urlLang = params.get('lang');
+                if (urlLang && this.supportedLanguages.indexOf(urlLang) !== -1) {
+                    return urlLang;
+                }
+            } catch (e) {}
+            try {
+                var saved = localStorage.getItem('preferredLanguage');
+                if (saved && this.supportedLanguages.indexOf(saved) !== -1) {
+                    return saved;
+                }
+            } catch (e) {}
             // Browser language detection
             var browserLang = navigator.language.split('-')[0].toLowerCase();
             if (this.supportedLanguages.indexOf(browserLang) !== -1) {
@@ -91,7 +100,8 @@
             }
 
             self.currentLang = lang;
-            localStorage.setItem('preferredLanguage', lang);
+            document.documentElement.lang = lang;
+            try { localStorage.setItem('preferredLanguage', lang); } catch (e) {}
             return self.loadTranslations(lang).then(function() {
                 self.updateUI();
                 self.updateLangButtons();
@@ -100,6 +110,7 @@
 
         I18n.prototype.updateUI = function() {
             var self = this;
+            document.documentElement.lang = self.currentLang;
             document.querySelectorAll('[data-i18n]').forEach(function(element) {
                 var key = element.getAttribute('data-i18n');
                 var text = self.t(key);
