@@ -1,39 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a1a"/>
-      <stop offset="50%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0a0a1a"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.3"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="20" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
-
-  <!-- Decorative circles -->
-  <circle cx="900" cy="200" r="150" fill="#7c3aed" opacity="0.08" filter="url(#glow)"/>
-  <circle cx="200" cy="500" r="100" fill="#7c3aed" opacity="0.05" filter="url(#glow)"/>
-
-  <!-- Accent line -->
-  <rect x="80" y="520" width="200" height="4" rx="2" fill="url(#accent)"/>
-
-  <!-- Emoji -->
-  <text x="600" y="240" text-anchor="middle" font-size="120">🎯</text>
-
-  <!-- Title -->
-  <text x="600" y="370" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="56" font-weight="700" fill="white">오라 리딩 테스트 - 당신의 오ë</text>
-
-  <!-- Brand -->
-  <text x="600" y="430" text-anchor="middle" font-family="system-ui,sans-serif" font-size="24" fill="#7c3aed" opacity="0.9">dopabrain.com</text>
-
-  <!-- Bottom bar -->
-  <rect x="0" y="620" width="1200" height="10" fill="#7c3aed" opacity="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Aura Color Studio</title><desc id="desc">Eight colorful circles surrounding the title of a color palette game.</desc>
+  <defs><radialGradient id="bg"><stop stop-color="#2c1855"/><stop offset="1" stop-color="#090616"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="18"/></filter></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><g opacity=".42" filter="url(#glow)"><circle cx="130" cy="105" r="90" fill="#e94255"/><circle cx="1070" cy="115" r="110" fill="#3b82f6"/><circle cx="1060" cy="520" r="115" fill="#20b77a"/><circle cx="125" cy="525" r="100" fill="#ec5aa7"/></g>
+  <g transform="translate(600 176)"><circle cx="-245" r="38" fill="#e94255"/><circle cx="-175" r="38" fill="#3b82f6"/><circle cx="-105" r="38" fill="#f5b82e"/><circle cx="-35" r="38" fill="#20b77a"/><circle cx="35" r="38" fill="#8b5cf6"/><circle cx="105" r="38" fill="#cbd5e1"/><circle cx="175" r="38" fill="#ec5aa7"/><circle cx="245" r="38" fill="#4b5563"/></g>
+  <text x="600" y="345" text-anchor="middle" fill="#fff" font-family="Inter,system-ui,sans-serif" font-size="72" font-weight="800" letter-spacing="-3">Aura Color Studio</text><text x="600" y="410" text-anchor="middle" fill="#cbbcff" font-family="Inter,system-ui,sans-serif" font-size="28">10 scenes · 8 palettes · visible scoring</text><text x="600" y="516" text-anchor="middle" fill="#a89dbc" font-family="Inter,system-ui,sans-serif" font-size="23">dopabrain.com/aura-reading</text>
 </svg>

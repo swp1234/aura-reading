@@ -1,45 +1,23 @@
 {
   "meta": {
-    "title": "Lecture d'Aura - Quelle Est la Couleur de Votre Aura ? | DopaBrain",
-    "description": "Quelle est la couleur de votre aura ? Répondez à 10 questions oniriques pour découvrir votre couleur énergétique. 8 types d'aura uniques avec analyse de personnalité. Partagez votre résultat !",
-    "keywords": "test d'aura, couleur d'aura, lecture d'énergie, test de personnalité, quiz d'aura, test spirituel",
-    "og_title": "Quelle Est la Couleur de Votre Aura ? - 8 Types d'Aura",
-    "og_description": "Fermez les yeux et respirez. Quelle couleur voyez-vous ? Répondez à ce quiz de 10 questions pour découvrir la couleur de votre aura !",
-    "twitter_title": "Quelle Est la Couleur de Votre Aura ? - Quiz de Lecture d'Aura",
-    "twitter_description": "Découvrez la couleur de votre aura avec 10 questions oniriques !"
+    "title": "Studio de couleurs aura | DopaBrain",
+    "description": "Choisissez dix scènes imaginaires et obtenez une palette créée avec un barème visible. Divertissement uniquement."
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "loader": {
+    "loading": "Chargement…"
   },
   "app": {
-    "skipLink": "Aller au contenu principal",
-    "loading": "Lecture des énergies..."
-  },
-  "intro": {
-    "title": "Quelle Est la Couleur de Votre Aura ?",
-    "subtitle": "Découvrez l'énergie qui vous entoure",
-    "description": "Répondez à 10 questions oniriques pour révéler la couleur de votre aura.",
-    "description_2": "Découvrez votre énergie cachée, vos forces et vos auras compatibles !",
-    "time_estimate": "Prend environ 2 minutes"
-  },
-  "aura": {
-    "ruby_short": "Rubis",
-    "ocean_short": "Océan",
-    "golden_short": "Doré",
-    "emerald_short": "Émeraude",
-    "violet_short": "Violet",
-    "crystal_short": "Cristal",
-    "nebula_short": "Nébuleuse",
-    "obsidian_short": "Obsidienne"
-  },
-  "button": {
-    "start": "Commencer la Lecture d'Aura",
-    "back": "Retour",
-    "retry": "Refaire le Quiz",
-    "share_whatsapp": "WhatsApp",
-    "share_twitter": "Twitter",
-    "share_facebook": "Facebook",
-    "share_copy": "Copier le Lien"
+    "title": "Aura Color Studio",
+    "subtitle": "Choisissez la scène la plus attirante parmi dix questions imaginaires.",
+    "method": "Méthode : chaque choix donne 3 points à une palette et 1 à une autre. Le total le plus élevé gagne ; les égalités suivent l’ordre affiché.",
+    "boundary": "Ce jeu de divertissement est une création éditoriale. Il ne détecte ni aura, ni champ énergétique, ni personnalité, ni compatibilité, ni état mental.",
+    "start": "Lancer le jeu de couleurs"
   },
   "quiz": {
-    "question_label": "QUESTION",
+    "label": "QUESTION",
     "q1": {
       "text": "Quand vous fermez les yeux et respirez profondément, que voyez-vous ?",
       "opt0": "Des flammes vacillantes dansant dans l'obscurité",
@@ -111,158 +89,32 @@
       "opt3": "Mystère"
     }
   },
-  "analyzing": {
-    "title": "Lecture de votre champ énergétique...",
-    "subtitle": "Alignement de vos fréquences auriques"
+  "palette": {
+    "ruby": "Rouge Rubis",
+    "ocean": "Bleu Océan",
+    "golden": "Jaune Doré",
+    "emerald": "Vert Émeraude",
+    "violet": "Violet Pourpre",
+    "crystal": "Blanc Cristal",
+    "nebula": "Rose Nébuleuse",
+    "obsidian": "Noir Obsidienne"
   },
   "result": {
-    "your_aura": "VOTRE COULEUR D'AURA",
-    "strengths": "Vos Forces",
-    "compatible": "Auras Compatibles",
-    "famous": "Personnalités Célèbres Avec Votre Aura",
-    "share": "Partagez Votre Aura",
-    "moreTests": "Decouvrez d'autres tests",
-    "percentileStat": "Seulement <strong>{percent}%</strong> des participants partagent votre type d'energie d'aura",
-    "ruby": {
-      "name": "Rouge Rubis",
-      "tagline": "Le Leader Passionné",
-      "description": "Votre aura brûle d'un Rouge Rubis -- la couleur de la passion brute, du courage et de la détermination implacable. Vous êtes un leader né qui inspire les autres par la pure force de votre personnalité. Votre énergie est magnétique : quand vous entrez dans une pièce, les gens le ressentent. Vous vivez audacieusement, aimez férocement et refusez de vous contenter de moins que l'extraordinaire.",
-      "strength0": "Leadership Intrépide",
-      "strength1": "Volonté Inébranlable",
-      "strength2": "Passion Profonde",
-      "strength3": "Énergie Contagieuse",
-      "famous0": "Beyoncé",
-      "famous1": "Elon Musk",
-      "famous2": "Frida Kahlo",
-      "famous3": "Muhammad Ali"
-    },
-    "ocean": {
-      "name": "Bleu Océan",
-      "tagline": "Le Penseur Profond",
-      "description": "Votre aura rayonne d'un Bleu Océan -- la couleur de la profondeur infinie, de la sagesse et de l'intelligence émotionnelle. Comme l'océan lui-même, vous avez des surfaces calmes mais une profondeur incroyable en dessous. Vous voyez à travers les façades et comprenez les gens à un niveau que les autres ne peuvent pas atteindre. Votre esprit est votre plus grand atout, et votre empathie est aussi profonde que la mer.",
-      "strength0": "Perspicacité Profonde",
-      "strength1": "Esprit Analytique",
-      "strength2": "Profondeur Émotionnelle",
-      "strength3": "Vision Stratégique",
-      "famous0": "Albert Einstein",
-      "famous1": "Adele",
-      "famous2": "Léonard de Vinci",
-      "famous3": "Virginia Woolf"
-    },
-    "golden": {
-      "name": "Jaune Doré",
-      "tagline": "L'Optimiste Créatif",
-      "description": "Votre aura brille d'un Jaune Doré -- la couleur du soleil, de la créativité et de l'optimisme sans limites. Vous êtes la personne qui illumine chaque pièce et rend l'impossible réalisable. Votre esprit créatif voit la beauté et les possibilités partout. Les gens sont attirés par votre chaleur comme les tournesols se tournent vers le soleil.",
-      "strength0": "Optimisme Rayonnant",
-      "strength1": "Génie Créatif",
-      "strength2": "Charme Naturel",
-      "strength3": "Vision Inspirante",
-      "famous0": "BTS Jin",
-      "famous1": "Oprah Winfrey",
-      "famous2": "Robin Williams",
-      "famous3": "Frida Kahlo"
-    },
-    "emerald": {
-      "name": "Vert Émeraude",
-      "tagline": "Le Guérisseur Naturel",
-      "description": "Votre aura rayonne d'un Vert Émeraude -- la couleur de la guérison, de la croissance et de la connexion profonde avec la nature. Vous possédez un don rare : la capacité de faire sentir aux autres qu'ils sont en sécurité, entendus et restaurés. Comme une forêt ancienne, votre présence est ancrante et réparatrice. Vous guérissez non seulement par les mots, mais par la pure chaleur de votre être.",
-      "strength0": "Présence Guérisseuse",
-      "strength1": "Empathie Profonde",
-      "strength2": "Mentalité de Croissance",
-      "strength3": "Équilibre Naturel",
-      "famous0": "Keanu Reeves",
-      "famous1": "Jane Goodall",
-      "famous2": "Bob Ross",
-      "famous3": "Dalaï Lama"
-    },
-    "violet": {
-      "name": "Violet Pourpre",
-      "tagline": "Le Mystique Spirituel",
-      "description": "Votre aura pulse d'un Violet Pourpre -- la couleur de l'éveil spirituel, de l'intuition et de la conscience cosmique. Vous existez entre les mondes, percevant des vérités que les autres négligent. Votre intuition est d'une précision troublante, et vous savez souvent des choses avant qu'elles n'arrivent. Vous êtes attiré par les mystères de l'existence et trouvez du sens là où les autres voient le chaos.",
-      "strength0": "Intuition Puissante",
-      "strength1": "Sagesse Spirituelle",
-      "strength2": "Conscience Cosmique",
-      "strength3": "Profondeur Créative",
-      "famous0": "Nikola Tesla",
-      "famous1": "Lady Gaga",
-      "famous2": "Carl Jung",
-      "famous3": "Björk"
-    },
-    "crystal": {
-      "name": "Blanc Cristal",
-      "tagline": "Le Pur & Équilibré",
-      "description": "Votre aura brille d'un Blanc Cristal -- la couleur de la clarté, de la pureté et de l'équilibre parfait. Vous êtes une âme rare qui incarne l'harmonie en toutes choses. Comme un prisme de cristal, vous absorbez les énergies autour de vous et les transformez en quelque chose de beau. Votre clarté de but et votre paix intérieure sont vos plus grands cadeaux au monde.",
-      "strength0": "Clarté Cristalline",
-      "strength1": "Équilibre Intérieur",
-      "strength2": "Présence Paisible",
-      "strength3": "Énergie Purifiante",
-      "famous0": "Audrey Hepburn",
-      "famous1": "Gandhi",
-      "famous2": "Fred Rogers",
-      "famous3": "Hayao Miyazaki"
-    },
-    "nebula": {
-      "name": "Rose Nébuleuse",
-      "tagline": "Le Rêveur Romantique",
-      "description": "Votre aura tourbillonne d'un Rose Nébuleuse -- la couleur des rêves romantiques, de la beauté artistique et de l'amour tendre. Vous vivez le monde à travers un prisme d'émerveillement et de beauté que la plupart des gens perdent après l'enfance. Votre imagination est vaste comme une nébuleuse, donnant naissance à de nouvelles étoiles de créativité. Vous aimez profondément, rêvez intensément et créez de la beauté partout où vous allez.",
-      "strength0": "Imagination Sans Limites",
-      "strength1": "Amour Romantique Profond",
-      "strength2": "Sensibilité Artistique",
-      "strength3": "Créativité Rêveuse",
-      "famous0": "Taylor Swift",
-      "famous1": "Personnages de Studio Ghibli",
-      "famous2": "Claude Monet",
-      "famous3": "BTS V"
-    },
-    "obsidian": {
-      "name": "Noir Obsidienne",
-      "tagline": "Le Visionnaire Indépendant",
-      "description": "Votre aura émane d'un Noir Obsidienne -- la couleur de l'indépendance, du mystère et du pouvoir visionnaire. Vous suivez votre propre chemin et refusez d'être défini par les autres. Comme l'obsidienne forgée dans le feu volcanique, vous avez été façonné par des expériences intenses en quelque chose d'incassable. Votre profondeur et votre complexité vous rendent infiniment fascinant pour ceux qui gagnent votre confiance.",
-      "strength0": "Indépendance Farouche",
-      "strength1": "Pouvoir Protecteur",
-      "strength2": "Profondeur Mystérieuse",
-      "strength3": "Pensée Visionnaire",
-      "famous0": "Zendaya",
-      "famous1": "Steve Jobs",
-      "famous2": "Billie Eilish",
-      "famous3": "Christopher Nolan"
-    }
-  },
-  "related": {
-    "auraScore": "Score d'Aura",
-    "colorPersonality": "Personnalite des Couleurs",
-    "soulAge": "Age de l'Ame",
-    "numerology": "Numerologie"
+    "kicker": "Votre palette de jeu",
+    "summary": "Vos choix ont donné le plus de points à {top}, puis à {runner}.",
+    "top": "Palette principale",
+    "runner": "Deuxième palette",
+    "formula": "Chaque réponse ajoute 3 points à la couleur principale et 1 à la secondaire. Les égalités suivent l’ordre affiché.",
+    "boundary": "Le résultat décrit seulement cette association fixe, pas votre personne.",
+    "next": "Choisissez la suite",
+    "reflection": "Essayer une réflexion guidée",
+    "coffee": "Jouer au code café",
+    "retry": "Rejouer"
   },
   "share": {
-    "text": "Ma couleur d'aura est",
-    "cta": "Découvrez votre couleur d'aura :"
-  },
-  "toast": {
-    "copied": "Lien copié !"
-  },
-  "game": {
-    "back": "Accueil DopaBrain"
-  },
-  "engage": {
-    "cta": "Découvrez votre aura maintenant",
-    "proof": "personnes ont découvert leur aura",
-    "result1": "Aura Violette -- Intuitive et Spirituelle",
-    "result2": "Aura Dorée -- Confiante et Magnétique",
-    "result3": "Aura Émeraude -- Guérisseuse et Protectrice",
-    "result4": "Aura Rubis -- Passionnée et Audacieuse"
-  },
-  "about": {
-    "whatIsTitle": "Qu'est-ce que la lecture d'aura ?",
-    "whatIsDesc": "L'aura est le champ d'énergie subtil qui entoure chaque être vivant. La lecture d'aura interprète ces vibrations énergétiques pour révéler les traits de personnalité, les états émotionnels et les tendances spirituelles.",
-    "whatIs1": "Chaque couleur d'aura reflète des caractéristiques de personnalité uniques",
-    "whatIs2": "Votre aura dominante peut changer avec la croissance personnelle",
-    "whatIs3": "Les résultats incluent une analyse de compatibilité avec d'autres types d'aura",
-    "colorsTitle": "Comprendre les couleurs d'aura",
-    "colorsDesc": "Les couleurs d'aura sont censées refléter votre énergie intérieure et votre état émotionnel. Les couleurs chaudes suggèrent une énergie passionnée et créative, tandis que les tons froids indiquent une sagesse calme et de la clarté.",
-    "colors1": "Auras chaudes (Ruby, Golden) : Passionnées, énergiques, orientées leadership",
-    "colors2": "Auras froides (Ocean, Crystal) : Sages, calmes, analytiques, pures",
-    "colors3": "Auras spirituelles (Violet, Nebula, Emerald) : Intuitives, empathiques, créatives",
-    "colors4": "Auras sombres (Obsidian) : Fortes, indépendantes, profondeur mystérieuse"
+    "button": "Partager un lien neutre",
+    "text": "Essayez ce jeu de palettes en dix scènes.",
+    "success": "Lien copié.",
+    "unavailable": "Partage indisponible."
   }
 }
